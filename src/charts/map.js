@@ -33,7 +33,7 @@ class Map extends Component {
 
     loadCSVData() {
         // Use d3.csv to load the CSV data
-        d3.csv(process.env.PUBLIC_URL + '/atlanta_data.csv').then((data) => {
+        d3.csv(process.env.PUBLIC_URL + '/atlanta_biz_data.csv').then((data) => {
             console.log('First Row:', data[0]);
 
             // Convert the columns to the specified data types
@@ -61,7 +61,7 @@ class Map extends Component {
             <MapContainer
                 center={[33.7756, -84.3963]}
                 zoom={13}
-                style={{ height: '500px', width: '70%' }}
+                style={{ height: '500px', width: '100%' }}
             >
 
             <TileLayer
@@ -78,6 +78,7 @@ class Map extends Component {
                     <Popup>
                         <div>
                             <h3>{restaurant.restaurant_name}</h3>
+                            <p>Address: {restaurant.address}</p>
                             <p>Rating: {restaurant.average_rating}</p>
                             {/* Add other restaurant information here */}
                         </div>
