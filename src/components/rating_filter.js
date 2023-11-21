@@ -16,7 +16,7 @@ class RatingFilter extends Component {
 
     render() {
         return (
-            <div style={{ position: 'absolute', top: '20px', right: '20px', zIndex: 1000 }}>
+            <div style={{ position: 'absolute', top: '20px', right: '80px', zIndex: 1000, width: 100, height: 40 }}>
                 <input
                     type="range"
                     min="1"
@@ -25,7 +25,7 @@ class RatingFilter extends Component {
                     step="1"
                     onChange={this.handleRatingChange}
                 />
-                <div>Rating: {this.state.rating}</div>
+                <div><b>Rating: {this.state.rating}</b></div>
             </div>
         );
     }

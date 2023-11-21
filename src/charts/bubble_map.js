@@ -10,8 +10,8 @@ class Bubble_Map extends Component {
         return (
             <MapContainer
                 center={[33.7756, -84.3963]}
-                zoom={12}
-                style={{ height: '300px', width: '30%' }} // Adjust the width as needed
+                zoom={13}
+                style={{ height: '600px', width: '100%' }} // Adjust the width as needed
             >
                 <TileLayer
                     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -22,7 +22,7 @@ class Bubble_Map extends Component {
                     <CircleMarker
                         key={index}
                         center={[restaurant.latitude, restaurant.longitude]}
-                        radius={Math.exp(restaurant.average_rating / 2)} // Adjust the scaling as needed
+                        radius={Math.exp(restaurant.average_rating / 2)*2} // Adjust the scaling as needed
                         fillOpacity={0.5}
                         stroke={false}
                         color={`hsla(240, 100%, 50%, ${0.01 + (restaurant.average_rating * 10) * 0.01})`}

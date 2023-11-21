@@ -18,10 +18,10 @@ class CustomBarChart extends React.Component {
         // console.log(chartData)
 
         return (
-            <ResponsiveContainer width="40%" height={300}>
+            <ResponsiveContainer width="30%" height={300}>
                 <BarChart data={chartData} margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
                     <CartesianGrid strokeDasharray="3 3" />
-                    <XAxis dataKey="name" label={{ value: 'Ratings by Reviewers', offset: -15, position:'insideBottom', dx: 150  }} />
+                    <XAxis dataKey="name" label={{ value: 'Ratings by Reviewers', offset: -15, position:'insideBottom', dx: 100  }} />
                     <YAxis label={{ value: 'Percentage of Total Ratings (%)', angle: -90, position: 'insideLeft', offset: 0, dy: 120  }}/>
                     <Tooltip />
                     <Legend />

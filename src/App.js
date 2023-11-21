@@ -117,13 +117,18 @@ class App extends Component {
                 <RatingFilter onRatingChange={this.handleRatingChange} />
                 <button onClick={this.handleViewAll} className="view-all-button" style={{
                     position: 'absolute',
-                    top: '40px',
-                    right: '100px',
-                    zIndex: 1000
+                    top: '10px',
+                    right: '250px',
+                    zIndex: 1000,
+                    fontSize: '20px'
                 }}>
-                    View All
+                    <b>View All Restaurants</b>
                 </button>
                 <div className="flex-column-container">
+                    <div>
+                        <Bubble_Map restaurants={this.state.filteredRestaurants} />
+                        <p><b>Bubble Map👆:</b> This visualization provides an overview of restaurant ratings across Atlanta. <br />Higher-rated restaurants are represented by larger and more saturated bubbles, while lower-rated ones appear as smaller and lighter bubbles on the map. <br /> Hover over the bubble to see restaurant-specific information.</p>
+                    </div>
                     <div>
                         <Map
                             restaurants={this.state.filteredRestaurants}
@@ -131,10 +136,11 @@ class App extends Component {
                         />
                     </div>
                     <div className="flex-row-container">
-                        <Bubble_Map restaurants={this.state.filteredRestaurants} />
                         <CustomBarChart data={this.state.selectedRatingPercentages} />
                         <WordCloudComponent restaurant={this.state.selectedRestaurant}/>
                     </div>
+                    <p> When you click on any marker on the second interactive map, additional information will be displayed in the form of a bar chart and a word cloud. <br /> These visualizations provide a closer look at the distribution of reviews and frequently used words, offering more details and insights.</p>
+
                 </div>
             </div>
         );
