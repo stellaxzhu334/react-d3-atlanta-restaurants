@@ -3,6 +3,7 @@ import './App.css';
 import Map from './charts/map.js';
 import Bubble_Map from './charts/bubble_map.js';
 import CustomBarChart from './charts/barchart.js';
+import WordCloudComponent from './charts/wordcloud.js';
 import RatingFilter from './components/rating_filter.js';
 import * as d3 from 'd3'; // Import d3 library
 
@@ -15,6 +16,7 @@ class App extends Component {
             restaurants: [], // Full list of restaurants
             filteredRestaurants: [], // Filtered list based on rating
             selectedRating: 3, // Start with a default rating
+            selectedRestaurant:[], // for creating wordcloud
             // use atlanta_biz_rating_percent_data
             ratingPercentages: [], // rating percentages for restaurants
             selectedRatingPercentages: [],
@@ -63,16 +65,28 @@ class App extends Component {
         });
     }
 
-    onRestaurantSelect = (selectedRestaurant) => {
+    onRestaurantSelect = (selectedRestaurantX) => {
+        // update selectedRatingPercentages
         const ratingPercentage = this.state.ratingPercentages.find(rating =>
-            rating.restaurant_name === selectedRestaurant.restaurant_name
+            rating.restaurant_name === selectedRestaurantX.restaurant_name
         );
         if (ratingPercentage) {
-            this.setState({ selectedRatingPercentages: ratingPercentage }, () => {
-                // console.log(this.state.selectedRatingPercentages);
+            this.setState({ selectedRatingPercentages: ratingPercentage });
+        } else {
+            console.error(`Rating percentages for ${selectedRestaurantX.restaurant_name} not found.`);
+        }
+
+        // update selectedRestaurant
+        const selectedRestaurantInMap = this.state.restaurants.find(restaurant =>
+            restaurant.restaurant_name === selectedRestaurantX.restaurant_name
+        );
+        // console.log(selectedRestaurantInMap);
+        if (selectedRestaurantInMap) {
+            this.setState({ selectedRestaurant: selectedRestaurantInMap }, () => {
+                // console.log(this.state.selectedRestaurant);
             });
         } else {
-            console.error(`Rating percentages for ${selectedRestaurant.restaurant_name} not found.`);
+            console.error(`Restaurant data for selected ${selectedRestaurantX.restaurant_name} not found.`);
         }
     }
 
@@ -103,13 +117,18 @@ class App extends Component {
                 <RatingFilter onRatingChange={this.handleRatingChange} />
                 <button onClick={this.handleViewAll} className="view-all-button" style={{
                     position: 'absolute',
-                    top: '40px',
-                    right: '100px',
-                    zIndex: 1000
+                    top: '10px',
+                    right: '250px',
+                    zIndex: 1000,
+                    fontSize: '20px'
                 }}>
-                    View All
+                    <b>View All Restaurants</b>
                 </button>
                 <div className="flex-column-container">
+                    <div>
+                        <Bubble_Map restaurants={this.state.filteredRestaurants} />
+                        <p><b>Bubble Map👆:</b> This visualization provides an overview of restaurant ratings across Atlanta. <br />Higher-rated restaurants are represented by larger and more saturated bubbles, while lower-rated ones appear as smaller and lighter bubbles on the map. <br /> Hover over the bubble to see restaurant-specific information.</p>
+                    </div>
                     <div>
                         <Map
                             restaurants={this.state.filteredRestaurants}
@@ -117,9 +136,11 @@ class App extends Component {
                         />
                     </div>
                     <div className="flex-row-container">
-                        <Bubble_Map restaurants={this.state.filteredRestaurants} />
                         <CustomBarChart data={this.state.selectedRatingPercentages} />
+                        <WordCloudComponent restaurant={this.state.selectedRestaurant}/>
                     </div>
+                    <p> When you click on any marker on the second interactive map, additional information will be displayed in the form of a bar chart and a word cloud. <br /> These visualizations provide a closer look at the distribution of reviews and frequently used words, offering more details and insights.</p>
+
                 </div>
             </div>
         );
