@@ -1,6 +1,22 @@
 import React, { Component } from 'react';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
+import icon from 'leaflet/dist/images/marker-icon.png';
+import iconShadow from 'leaflet/dist/images/marker-shadow.png';
 import * as d3 from 'd3'; // Import d3 library
+
+// define marker icon
+let DefaultIcon = L.icon({
+    iconUrl: icon,
+    shadowUrl: iconShadow,
+    iconSize: [15, 24], // Size of the icon
+    iconAnchor: [7.5, 24], // Point of the icon which will correspond to marker's location
+    popupAnchor: [0,-20], // Point from which the popup should open relative to the iconAnchor
+    shadowSize: [15, 15] // Size of the shadow
+});
+
+L.Marker.prototype.options.icon = DefaultIcon;
 
 class Map extends Component {
     constructor(props) {
@@ -22,7 +38,7 @@ class Map extends Component {
 
             // Convert the columns to the specified data types
             const formattedData = data.map((row) => ({
-                name_y: String(row.name_y), // Convert to string
+                restaurant_name: String(row.restaurant_name), // Convert to string
                 address: String(row.address), // Convert to string
                 latitude: parseFloat(row.latitude), // Convert to float
                 longitude: parseFloat(row.longitude), // Convert to float
@@ -43,39 +59,31 @@ class Map extends Component {
 
         return (
             <MapContainer
-                center={[33.773652, -84.35368489999999]}
-                zoom={12}
-                style={{ height: '500px', width: '100%' }}
+                center={[33.7756, -84.3963]}
+                zoom={13}
+                style={{ height: '500px', width: '70%' }}
             >
-                <TileLayer
-                    url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                    attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                />
-                {restaurants.map((restaurant, index) => {
-                    console.log('Latitude:', restaurant.latitude);
-                    console.log('Longitude:', restaurant.longitude);
 
-                    // return (
-                        // <Marker
-                        //     key={index}
-                        //     position={[restaurant.latitude, restaurant.longitude]}
-                        // >
-                        // </Marker>
-                    // );
-                }
-                    //   <Marker
-                    //     key={index}
-                    //     position={[restaurant.latitude, restaurant.longitude]}
-                    //   >
-                    //     <Popup>
-                    //       <div>
-                    //         <h2>{restaurant.name_y}</h2>
-                    //         <p>Rating: {restaurant.average_rating}</p>
-                    //         {/* Add other restaurant information here */}
-                    //       </div>
-                    //     </Popup>
-                    //   </Marker>
-                )}
+            <TileLayer
+                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+                attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            /> 
+
+            {restaurants.map((restaurant, index) => (
+                <Marker
+                    key={index}
+                    position={[restaurant.latitude, restaurant.longitude]}
+                    icon={DefaultIcon}
+                >
+                    <Popup>
+                        <div>
+                            <h3>{restaurant.restaurant_name}</h3>
+                            <p>Rating: {restaurant.average_rating}</p>
+                            {/* Add other restaurant information here */}
+                        </div>
+                    </Popup>
+                </Marker>                
+            ))}
             </MapContainer>
         );
     }

@@ -5,8 +5,8 @@ import Map from './charts/map.js';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        {/* Your other content */}
+      <header>
+        <h1>Visualization of Atlanta Restaurants</h1>
       </header>
       <Map />
     </div>
