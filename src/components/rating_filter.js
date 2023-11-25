@@ -19,7 +19,7 @@ class RatingFilter extends Component {
             <div style={{ position: 'absolute', top: '20px', right: '80px', zIndex: 1000, width: 100, height: 40 }}>
                 <input
                     type="range"
-                    min="1"
+                    min="0"
                     max="5"
                     value={this.state.rating}
                     step="1"
