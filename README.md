@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Web Page Preview
+Our website, built with React and D3, features interactive maps on the 'About' page and a user guide on the 'Home' page. Utilizing libraries like Leaflet, Nivo, and Visx, we offer a seamless visual exploration of restaurant ratings. 
+Below is the screenshot of how the About Page looks. It introduces a simple user maunal for the website.
+![About Page](https://github.com/stellaxzhu334/react-d3-atlanta-restaurants/blob/main/images/aboutPage.png)
+As illustrated in the image below, a bubble map filters establishments by ratings, ranging from 4.0 to 5.0 in this case, with options to adjust the filter or display all restaurants. Adjacent funnel charts present the distribution across rating categories.
+![Home Page: Bubble Map and Funnel Chart](https://github.com/stellaxzhu334/react-d3-atlanta-restaurants/blob/main/images/bubbleMap.png)
+The last image highlights an interactive feature where selecting a restaurant marker on the map displays its rating breakdown in a bar chart and aggregates common terms from reviews into a word cloud.
+![Home Page: Marker Map with Bar Chart and Word Cloud](https://github.com/stellaxzhu334/react-d3-atlanta-restaurants/blob/main/images/markerMap.png)
+
+# YouTube Demo Link
+[![Watch the video](https://img.youtube.com/vi/iyEandlyeTE/maxresdefault.jpg)](https://youtu.be/iyEandlyeTE)
 
 ## Available Scripts
 
