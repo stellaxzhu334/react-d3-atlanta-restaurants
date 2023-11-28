@@ -1,1061 +1,1049 @@
-restaurant_name,1.0,2.0,3.0,4.0,5.0
-"""Food That Pleases""",25.0,0.0,0.0,50.0,25.0
-101 Bagel Cafe,13.4,3.2,9.7,15.7,58.1
-1911 Biscuits & Burgers,3.9,1.6,6.2,10.9,77.3
-224 Cafe,25.0,0.0,0.0,10.7,64.3
-26 Thai Kitchen and Bar Midtown,2.0,1.5,2.5,15.7,78.2
-285 West Soul Food,8.5,4.1,10.9,23.2,53.2
-433 Bishop Event Venue,2.1,0.0,6.2,22.9,68.8
-5 Napkin Burger,0.0,25.0,50.0,25.0,0.0
-5th Street Tapas,0.0,0.0,5.6,0.0,94.4
-656 Sports Bar & Grille,13.3,4.5,11.8,24.2,46.1
-683 Midtown Bar and Bistro,0.0,25.0,0.0,0.0,75.0
-8ARM,7.8,5.1,10.5,16.6,60.0
-9 Mile Station,5.9,4.1,8.4,19.2,62.5
-A Town Wings,5.3,3.7,5.9,20.0,65.0
-A1 Soulfood,10.3,3.4,12.9,18.0,55.4
-ABC Chicken and Waffles-Nitro Coffee Counter,3.7,0.0,1.9,8.3,86.1
-AJ2 Fish and wings,3.8,1.9,5.8,15.4,73.1
-ATB Food Court,4.4,7.4,17.6,14.7,55.9
-ATL Wings,7.5,4.3,11.9,22.0,54.3
-ATLANTA DREAM WINGS DOWNTOWN,5.2,2.1,6.2,25.0,61.5
-AZIO Downtown,0.0,0.0,28.6,28.6,42.9
-Abol Cafe and Restaurant,7.7,2.4,10.1,11.5,68.3
-Acoustix Jazz Restaurant & Lounge,25.0,6.2,25.0,31.2,12.5
-Afrodish Restaurant,12.1,1.7,6.9,6.9,72.4
-Agave Restaurant,1.3,2.3,6.0,20.6,69.8
-Agency Socialtheque,7.6,3.0,9.1,17.2,63.1
-Ah-Ma's Taiwanese Kitchen,5.3,2.1,4.9,21.5,66.2
-Aladdin's Mediterranean Grill,6.3,1.8,8.1,19.7,64.1
-Ali Baba Mediterranean,6.0,2.1,4.8,11.3,75.8
-Allora,16.2,5.4,9.0,17.4,52.1
-Alma Cocina Buckhead,2.7,2.7,1.4,6.8,86.5
-Alma Cocina Downtown,2.3,2.6,8.4,23.8,62.9
-Ameer's Mediterranean Grill,6.0,2.7,6.0,14.0,71.2
-American Cut Steakhouse,5.4,2.7,5.1,14.5,72.3
-American Eclectic Burger,57.1,7.1,0.0,14.3,21.4
-American Wing & Deli,13.2,5.7,7.5,22.6,50.9
-American Wings & Seafood,5.3,2.7,10.6,23.6,57.8
-Anna's BBQ,4.2,2.0,3.5,19.1,71.1
-Annie's Thai Castle,4.1,3.4,9.5,23.6,59.5
-Antica Posta Restaurant,4.9,3.2,5.5,13.1,73.3
-Antico,2.4,1.7,4.0,14.7,77.2
-Apache XLR,5.3,2.6,7.9,22.5,61.8
-Applebee's Grill + Bar,20.1,8.5,14.9,21.4,35.0
-Apres Diem,2.8,2.2,8.2,26.6,60.2
-Apron,6.2,9.2,4.6,26.2,53.8
-Aqua Bistro,0.0,0.0,0.0,33.3,66.7
-Area 4 Restaurant,11.0,5.6,8.5,14.0,61.0
-Arepa Mía,6.2,2.0,4.7,18.4,68.8
-Argosy,2.5,2.3,6.2,26.0,63.0
-Aria,1.7,2.8,3.9,15.0,76.7
-Arnette's Chop Shop,2.9,1.0,4.3,12.6,79.2
-Athens Pizza,3.0,2.5,6.9,19.7,67.9
-Atkins Park Tavern,6.8,3.2,10.6,22.2,57.1
-Atlanta Bar and Grille,10.9,2.2,0.0,0.0,87.0
-Atlanta Bread Smyrna,7.6,4.1,11.3,27.9,49.1
-Atlanta Breakfast Club,3.5,2.1,4.7,15.2,74.6
-Atlanta Grill,2.6,2.6,10.5,21.1,63.2
-Atlanta Wings,4.9,2.8,9.8,22.0,60.6
-Atlanta's Best Wings,6.5,4.1,9.6,20.2,59.6
-Atlantic Grill,12.8,4.7,11.7,20.7,50.0
-Atlantic Noodles Restaurant,12.5,4.2,4.2,16.7,62.5
-Atlantis Restaurant & Lounge,21.8,9.3,13.6,17.5,37.7
-Atmosphere Restaurant,2.0,2.3,5.6,18.3,71.8
-Auntie Anne's,55.6,0.0,0.0,11.1,33.3
-Azule Restaurant and Lounge,13.5,5.4,5.4,13.5,62.2
-B-Side,5.9,2.9,8.8,7.4,75.0
-B51,15.8,6.0,15.4,19.0,43.9
-BBQ Cafe,0.0,0.0,3.8,19.2,76.9
-BEP! Vietnamese Cuisine,0.0,8.6,13.8,13.8,63.8
-Babette's Cafe,0.6,0.9,4.3,9.5,84.8
-Babs Midtown,4.8,4.6,4.4,14.5,71.7
-Bacchanalia,1.2,2.1,4.7,8.8,83.1
-Bakaris Plant-based pizza,12.5,4.1,6.9,18.8,57.8
-Baked Kitchen,0.0,6.2,6.2,6.2,81.2
-Baker Dude Bakery Cafe,6.5,2.6,2.0,4.6,84.3
-Baltimore Crab & Seafood,8.1,3.9,8.4,22.1,57.4
-Bangkok Thai Restaurant,6.0,4.1,5.7,18.6,65.7
-Banshee,0.7,1.1,3.4,16.0,78.7
-Bantam + Biddy,6.2,3.8,8.1,23.3,58.6
-Bantam Pub,2.3,2.6,7.4,21.3,66.3
-Bar Margot,2.4,3.0,4.1,18.5,72.0
-Bar Mercado,4.4,3.7,5.6,21.3,65.0
-Bar Vegan ATL,7.1,5.6,5.6,9.6,72.2
-Baraka Sharwarma Mediterenean,3.4,2.3,3.8,10.7,79.8
-Barbecue kitchen,2.7,2.7,10.8,13.5,70.3
-Bareburger,20.2,12.2,10.4,15.2,42.0
-Basil's Restaurant & Tapas Bar,4.1,3.7,5.1,16.3,70.8
-Batter Cookie Dough Buckhead,33.3,0.0,0.0,0.0,66.7
-Bayou'Q Atlanta,9.4,1.9,5.7,17.0,66.0
-Bazati,18.4,7.9,3.9,14.5,55.3
-"Beer Girl, Growlers & Bottleshop",2.0,0.0,3.0,5.1,89.9
-BeetleCat,2.9,2.5,5.0,19.5,70.1
-Bench Warmers Sports Grill,4.0,4.8,13.8,29.1,48.3
-Benihana,23.6,8.2,12.3,16.9,39.1
-Best End Brewing Company,1.2,2.4,2.4,14.6,79.3
-Betty's Waffle Emporium,0.0,0.0,0.0,0.0,100.0
-Bhojanic Food Truck,0.0,0.0,0.0,0.0,100.0
-Big Bang Pizza,9.0,6.5,10.9,16.0,57.7
-Big Daddy's Cafe,6.5,3.3,8.3,20.3,61.5
-Big Daddy's Kitchen,7.2,4.6,10.6,21.8,55.7
-Big Easy Grille,4.7,4.1,7.9,25.2,58.1
-Big Kahuna Atlanta,6.5,6.5,15.6,25.8,45.6
-Big Nick's Place,13.8,1.7,10.3,24.1,50.0
-Big Sky Buckhead,8.6,4.8,10.4,27.1,49.2
-Biltong Bar,2.4,4.8,4.0,11.1,77.8
-Bistro Niko,2.2,2.0,7.5,18.8,69.5
-Blackbird,8.6,4.7,7.0,10.9,68.8
-Blackstone Restaurant,0.0,0.0,37.5,0.0,62.5
-Blu Cantina,7.8,5.0,11.1,23.2,52.9
-Blu Cantina Camp Creek,10.1,3.8,12.0,20.3,53.8
-Blu Lagoon Bar and Bistro,12.9,3.7,9.2,17.1,57.1
-Blue Frog Cantina,0.0,33.3,0.0,33.3,33.3
-Blue Moon Pizza,2.9,3.8,8.9,22.0,62.4
-Blue Moon Pizza of Buckhead,4.8,1.8,7.1,18.8,67.5
-Bocado,3.7,3.3,6.1,25.8,61.1
-BoccaLupo,3.0,1.6,3.6,11.7,80.1
-Bojangles,15.1,8.8,12.8,18.7,44.6
-Bole Ethiopian Restaurant,6.5,1.6,6.1,12.9,72.8
-Bonefish Grill,4.6,3.0,9.3,21.9,61.2
-Bones Restaurant,2.7,1.5,3.0,12.4,80.5
-Boogalou Restaurant & Lounge,15.0,5.5,10.7,23.9,44.9
-Boone's,0.0,12.5,12.5,0.0,75.0
-Boston Market,3.3,3.6,9.7,25.3,58.1
-Botica,3.3,3.3,5.6,11.1,76.7
-Boucanes BBQ,14.3,0.0,7.1,7.1,71.4
-Boudreaux's On The Roll,6.0,3.0,7.5,22.4,61.2
-Bowlero Atlantic Station,7.5,2.3,10.4,18.5,61.3
-Boxcar at Hop City West End,3.0,3.2,7.0,18.5,68.3
-Brack's Kitchen,10.5,0.0,2.6,0.0,86.8
-Brake Pad,3.4,2.9,7.3,29.6,56.8
-Braves All Star Grill - Downtown,9.5,5.5,10.4,23.4,51.3
-Brezza Cucina,9.8,5.8,11.9,21.3,51.2
-BrickStone Cafe & Restaurant,9.1,2.6,5.2,14.3,68.8
-Brklyn Kitchen & Lounge (Hookah Lounge),17.0,4.8,5.3,11.2,61.7
-Brown Bag Seafood Co.,2.4,1.2,2.4,16.7,77.4
-Buena Vida Tapas & Sol,2.3,1.4,4.6,13.3,78.4
-Buffalo China,14.9,4.0,10.6,24.4,46.0
-Buffalo Wild Wings,25.7,8.9,12.0,19.2,34.3
-Buffalo Wild Wings 'GO',25.0,6.2,0.0,12.5,56.2
-Bullpen Rib House,12.3,4.9,11.1,27.1,44.7
-Burger Joy,31.6,5.3,9.5,17.9,35.8
-Burger King,23.5,9.2,16.9,19.8,30.6
-BurgerFi,13.3,4.1,5.2,9.2,68.3
-By George,0.0,5.7,8.6,5.7,80.0
-CEG Bakery,6.5,2.2,2.2,4.3,84.8
-CHE BUTTER JONEZ,5.3,0.0,0.0,2.6,92.1
-CJ Buffalo,7.1,5.1,26.5,20.4,40.8
-CO,6.2,6.0,7.1,18.3,62.4
-CRU Hookah Lounge,2.9,2.2,2.9,15.8,76.3
-CZ SMOKEZ BBQ,6.8,5.9,8.5,11.0,67.8
-Cafe,0.0,0.0,0.0,0.0,100.0
-Cafe 200,25.0,0.0,0.0,25.0,50.0
-Cafe 458,5.4,1.1,0.0,10.8,82.8
-Cafe Alsace,1.3,2.2,0.9,11.3,84.3
-Cafe At Pharr,8.4,2.1,8.4,15.4,65.7
-Cafe Bistro,11.1,8.3,8.3,11.1,61.1
-Cafe Circa,11.2,6.9,11.7,25.9,44.3
-Cafe Intermezzo,12.5,12.5,25.0,25.0,25.0
-Cafe Kulture,0.0,4.2,4.2,8.3,83.3
-Cafe Shekel,10.2,7.3,8.8,19.7,54.0
-Cafe Social House,7.0,2.9,5.9,13.2,71.0
-Café Aquaria,63.2,7.9,10.5,5.3,13.2
-Café Lapin,6.4,2.3,7.6,20.9,62.8
-Café Lily,3.9,1.5,6.3,24.8,63.5
-California Mart,12.5,0.0,12.5,0.0,75.0
-Callie's Hot Little Biscuit,6.6,5.7,10.5,20.1,57.2
-Cameli's Pizza,4.7,3.6,8.8,25.1,57.7
-Canopy Court,0.0,0.0,0.0,66.7,33.3
-Capital City Club,0.0,2.0,8.2,11.2,78.6
-Carolyn's Gourmet Cafe,3.4,3.4,19.3,25.0,48.9
-Carrabba's Italian Grill,6.9,4.7,9.4,27.3,51.7
-Carroll Street Cafe,1.7,1.6,3.7,23.6,69.5
-Carver's Country Kitchen,0.0,0.0,0.0,66.7,33.3
-Catch 12,7.9,4.9,11.7,23.9,51.6
-Chai Peking Chinese Restaurant,5.8,2.9,8.7,20.2,62.5
-Chairs Upstairs Bar and Restaurant,4.0,2.7,8.5,23.2,61.5
-Champs Chicken,6.7,6.7,13.3,26.7,46.7
-Chanterelle's,0.0,6.7,0.0,26.7,66.7
-Chappie Daddy's BBQ,0.0,0.0,0.0,0.0,100.0
-Char Korean Bar & Grill,6.2,5.8,8.0,20.8,59.1
-Chattahoochee Food Works,2.6,6.5,7.8,24.7,58.4
-"CheeZies Pizza Atlanta, GA",12.5,0.0,37.5,37.5,12.5
-Cheetah Lounge/ Alluvia Restaurant,23.9,4.9,9.8,12.7,48.8
-Chef Chen,12.0,4.1,6.0,16.1,61.8
-Chef’d Up Atl,22.4,10.3,8.6,13.8,44.8
-Chic Restaurant & Lounge,14.3,0.0,14.3,14.3,57.1
-Chic-A-Loes,5.4,3.1,7.6,22.9,61.0
-Chicago Pizza & Sports Grille,4.0,3.0,7.8,24.7,60.5
-Chick-a-Biddy,15.6,10.7,16.1,22.1,35.5
-Chick-fil-A,9.2,3.9,8.4,17.7,60.8
-Chili's Bar & Grill,22.6,10.4,12.8,17.7,36.6
-Chili's Grill & Bar,14.2,8.4,14.2,22.9,40.3
-Chin Chin at Howell Mill,10.4,5.6,12.4,20.7,51.0
-China Express,10.9,5.1,7.7,25.6,50.6
-China Moon Restaurant,17.0,5.2,7.4,25.2,45.2
-China Taste,14.5,5.4,3.6,16.3,60.2
-Chops & Lobster Bar,2.5,2.5,5.2,13.4,76.5
-Chopt Creative Salad Co.,13.1,6.3,10.7,11.7,58.3
-Chris' Caribbean Bistro,4.6,3.7,8.3,16.5,67.0
-Cinco Mexican Cantina,6.8,6.9,9.7,26.5,50.1
-CinéBistro,4.8,4.5,9.6,18.7,62.5
-Circle Poke,2.1,0.5,4.1,8.8,84.5
-Cirque Blu Seafood House,37.2,7.4,7.4,5.9,42.0
-Cirque Daiquiri Bar & Grill,17.9,6.6,12.6,20.4,42.6
-City Garden,50.0,0.0,25.0,0.0,25.0
-City View Cafe,0.0,0.0,0.0,0.0,100.0
-City Winery,16.6,10.7,11.9,17.8,43.0
-Clean Juice,3.8,5.1,3.8,12.8,74.4
-Clean Start Cleansing Atlanta,2.6,1.7,1.7,3.4,90.5
-Clifton Cafe,25.0,0.0,12.5,25.0,37.5
-Cold Beer,6.0,9.4,2.6,14.5,67.5
-Cold Brew Bar at Atlanta Dairies,0.9,1.3,4.3,11.3,82.3
-Community Q BBQ,2.1,2.0,3.9,18.3,73.8
-Condesa Coffee,2.7,1.7,6.6,21.0,68.0
-Continent Restaurant & Cigar Lounge,6.2,0.0,4.2,6.2,83.3
-Cook Out,6.1,4.6,12.2,25.7,51.3
-Cooks & Soldiers,1.7,1.7,3.3,13.0,80.3
-Copeland's of New Orleans,5.0,3.5,8.2,22.1,61.2
-Copper Cove Bistro,12.4,4.6,9.6,14.2,59.2
-Coq et Oeufs,33.3,0.0,0.0,0.0,66.7
-Cory’s spot,5.6,0.0,5.6,0.0,88.9
-Courthouse Cafe,5.7,5.7,0.0,8.6,80.0
-Cousin's Maine Lobster,10.4,10.0,9.1,19.5,51.1
-Cox Hall,1.7,2.6,15.9,30.9,48.9
-Crave Restaurant Atlanta,18.2,9.7,8.4,13.6,50.0
-Crawfish Shack Seafood,9.7,4.6,10.4,23.6,51.7
-"Crazy ATLanta Travel BAR, Street Food & Event Venue",6.7,3.0,10.1,22.0,58.2
-Crispina Ristorante & Pizzeria,4.9,4.9,4.9,13.7,71.5
-Curfew ATL Restaurant & Lounge,12.5,12.5,12.5,0.0,62.5
-Cuts Steakhouse,6.3,4.8,7.1,20.6,61.3
-D&D Barbeque & Ribs,5.2,2.9,12.2,19.0,60.7
-DRAGON EXPRESS,25.8,9.7,4.3,17.2,43.0
-Daddy D'z BBQ Joynt,10.2,4.6,8.4,20.2,56.6
-Dakota Blue,0.0,5.6,5.6,22.2,66.7
-Dante's Down the Hatch,5.6,22.2,0.0,16.7,55.6
-Debbie's Convenience Store & Soul Food,0.0,0.0,6.2,18.8,75.0
-Dee's Cafe,0.0,0.0,0.0,22.2,77.8
-Deja Vu Sports Bar & Lounge,8.0,6.7,5.3,12.0,68.0
-Del Taco,7.3,5.7,11.9,23.8,51.2
-Delbar Middle Eastern,3.1,1.2,1.9,7.8,86.0
-Delia's Chicken Sausage Stand,1.7,2.0,4.9,21.1,70.4
-Der Biergarten,3.0,2.3,7.7,26.5,60.5
-Desi Spice Indian Cuisine,12.6,3.4,3.9,16.2,64.0
-Desta Ethiopian Kitchen Emory Point,5.3,0.0,5.3,11.5,77.9
-Dipped N Butter,21.1,2.6,7.9,23.7,44.7
-Dire Grill,8.2,2.4,1.2,24.7,63.5
-Divan Restaurant & Hookah Lounge,3.7,2.2,6.9,17.0,70.2
-Dixie Q,1.3,3.9,7.5,22.1,65.3
-Doa Vietnamese,0.0,0.0,0.0,0.0,100.0
-Doc Green's Gourmet Salad And Sandwich Bar,13.3,3.6,7.2,18.7,57.2
-Donnie's Country Cookin',9.8,4.5,11.4,27.3,46.9
-Double Zero,3.1,2.6,5.4,22.2,66.8
-Downtown Wings,0.0,0.0,0.0,100.0,0.0
-Downwind Restaurant and Lounge,1.2,1.7,5.0,27.3,64.8
-Dr. Bombay's Underwater Tea Party,4.1,2.4,5.7,19.1,68.8
-Dragon Palace Restaurant,43.2,10.8,9.5,10.8,25.7
-DrinkShop,0.0,0.0,25.0,37.5,37.5
-Dua Hapeville,6.1,2.7,6.1,18.6,66.4
-Dua Vietnamese Noodle Soup,5.3,1.3,3.0,22.0,68.4
-ESCORPIÓN,3.6,3.6,10.3,31.9,50.6
-East Wave Asian Fusion,4.7,2.8,10.3,28.0,54.2
-EatMyTaco,50.0,16.7,0.0,0.0,33.3
-Eats,2.7,2.4,5.5,20.8,68.6
-Ecco Midtown,1.9,1.4,4.8,20.5,71.4
-Eclipse di Luna,1.6,1.4,4.9,20.8,71.3
-Eddie's Attic,1.7,1.3,4.6,15.2,77.2
-Edgar's Proof & Provision,6.7,3.9,8.4,22.5,58.4
-Einstein's,5.6,4.6,10.3,28.1,51.4
-El Azteca,4.6,2.9,9.6,24.1,58.8
-El Potro Mexican Restaurant,4.2,2.7,8.1,21.6,63.4
-El Vinedo Local,0.0,0.0,0.0,3.7,96.3
-Elbow Room,5.5,2.7,7.5,20.0,64.3
-Eleventh Street Pub,1.9,1.4,8.2,19.3,69.1
-Elleven45 Lounge,16.0,7.0,14.9,23.6,38.5
-Elmyr,5.9,3.2,9.2,19.4,62.4
-Elmyriachi,3.1,2.6,8.6,24.9,60.8
-Embilta Cafe & Restaurant,2.3,0.4,2.3,13.9,81.2
-Empire Sports Bar & Grill,11.8,5.9,8.8,11.8,61.8
-Empire State South,2.8,3.6,8.3,24.6,60.7
-Endive,0.0,0.0,0.0,1.7,98.3
-Esco Seafood,17.7,10.6,16.8,12.4,42.5
-Evangadi Restaurant Lounge,4.6,2.9,13.4,21.8,57.1
-Everythang Nola,1.0,0.0,1.5,11.2,86.3
-Extreme Teriyaki Grill Express,9.5,5.0,9.8,23.5,52.2
-FIGO Pasta Food Truck - Edgewood,7.8,7.1,13.8,25.9,45.3
-FIGO Pasta Vinings,7.7,6.0,9.3,22.3,54.7
-FINA at Wild Heaven,14.3,28.6,7.1,7.1,42.9
-Fado Irish Pub Midtown Atlanta,2.5,1.5,10.3,26.1,59.6
-Fanplex,0.0,0.0,0.0,20.0,80.0
-Farm Burger Buckhead,3.0,2.7,7.3,23.3,63.7
-Farm Burger Midtown Atlanta,2.6,3.0,9.5,15.6,69.3
-Farm to Ladle,17.0,13.2,7.5,24.5,37.7
-Fellini's Pizza,2.5,1.7,5.6,21.9,68.4
-Ferst Place,0.0,0.0,0.0,25.0,75.0
-Fia Restaurant,3.2,0.0,0.0,6.5,90.3
-Field Day,1.6,0.0,1.6,9.5,87.3
-Fin & Feathers,6.1,3.1,6.4,15.1,69.3
-Fire Hen,0.0,2.8,0.0,2.8,94.4
-Firewall Food Stop,3.9,0.0,0.0,5.3,90.8
-First Choice Cafe,5.6,2.8,1.4,15.5,74.6
-First Watch,5.4,4.5,8.6,22.7,58.8
-Fish Bowl Poke,4.5,1.3,5.1,19.7,69.4
-Five Guys,5.3,3.3,9.5,23.9,58.0
-Flower Child,4.9,0.7,3.3,12.5,78.7
-Flying Biscuit Cafe,3.9,2.5,7.5,20.8,65.3
-Flying Biscuit Cafe - Brookhaven,5.3,3.8,10.3,23.9,56.7
-Flying Biscuit Cafe - Howell Mill Village,4.7,2.7,6.3,23.9,62.4
-Flying Biscuit Café - Candler Park,3.5,2.6,7.9,20.8,65.2
-Flying Biscuit Café - Midtown,5.5,4.3,9.2,22.0,59.1
-Folk Art Restaurant Decatur,3.8,1.0,6.9,18.4,69.8
-Fontaine's Oyster House,3.3,2.9,6.5,21.0,66.3
-Food Terminal,2.3,1.5,6.4,17.7,72.1
-Fortune Cookie Restaurant,10.4,5.8,6.8,15.6,61.4
-Fox Bros. Bar-B-Q,2.0,1.6,4.9,17.1,74.4
-Fox Bros. Bar-B-Q Westside,12.5,0.0,0.0,12.5,75.0
-Foxtrot Liquor Bar,4.9,3.7,7.4,25.2,58.7
-Foxx Original Jamaican Restaurant,10.4,5.0,7.7,15.2,61.7
-Fresh 4 U,3.5,1.8,1.8,15.8,77.2
-Fresh To Order - CNN Center,21.9,6.2,10.9,17.2,43.8
-Fresh To Order - Decatur,2.1,2.8,7.2,23.6,64.3
-Fresh To Order - Midtown,3.6,1.5,8.6,25.5,60.8
-Fried Corn Evrythang,0.0,0.0,0.0,25.0,75.0
-Front Page News -Permanently Closed,5.1,4.4,11.2,26.8,52.5
-Frost Bistro,22.0,9.5,9.5,13.7,45.3
-G's Midtown,4.6,1.5,10.8,20.6,62.4
-Garden Parc Brunch & Events,3.0,1.8,4.2,11.4,79.6
-Gato,4.0,2.0,5.9,15.4,72.7
-Georgia Beer Garden,2.3,1.0,5.6,19.8,71.4
-Georgia Boy,3.8,2.5,0.0,5.1,88.6
-Get Fruity Cafe,12.7,4.4,7.0,12.7,63.3
-Gibney's Pub,5.1,3.1,10.6,31.8,49.4
-Gino's NY Pizza Bar,8.5,4.0,9.8,21.7,56.0
-Ginya Izakaya,3.0,2.2,5.0,20.6,69.2
-Girgiro Restorant,0.0,0.0,2.6,10.5,86.8
-Girl Diver Atlanta,6.0,3.6,9.5,11.9,69.0
-Gladys Knight's Signature Chicken & Waffles,41.9,11.6,7.6,16.2,22.7
-Glenn's Kitchen,2.2,2.2,9.5,24.6,61.5
-Gocha's Breakfast Bar,8.6,4.5,5.7,14.1,67.2
-Goldbergs Fine Foods - Roswell,7.0,3.8,5.4,19.0,64.9
-Goldbergs Fine Foods - Toco Hills,6.6,4.9,9.1,22.5,56.9
-Goldbergs Fine Foods - West Paces,4.6,3.4,8.2,25.5,58.4
-Golden Eagle,4.2,3.0,4.4,19.3,69.0
-Golden Vibes Café,0.0,0.0,0.0,0.0,100.0
-Gotham City Eatery,5.6,22.2,33.3,5.6,33.3
-Graffiti Atlanta,14.8,0.0,0.0,3.7,81.5
-Grana,2.6,3.0,7.3,11.9,75.2
-Grand Champion BBQ,11.1,6.7,2.2,2.2,77.8
-Grand Champion BBQ (Smyrna),0.0,0.0,0.0,0.0,100.0
-Grand Lux Cafe,8.8,4.2,9.3,21.6,56.2
-Grecian Gyro,6.2,1.7,4.5,15.7,71.9
-Green Soma Vegan Cafe,3.0,4.0,3.0,15.2,74.7
-Greenbriar Discount Mall,4.6,4.8,19.6,22.5,48.6
-Grindhouse Killer Burgers,1.9,1.9,5.6,22.8,67.9
-Grips Good Eats & Sweets,10.6,5.6,5.1,12.6,66.2
-Grub Burger Bar,3.4,3.2,7.7,26.5,59.1
-Grub Fresh Bowls & Wraps,14.3,8.9,5.4,10.7,60.7
-Grub Truck Stop,0.0,0.0,0.0,12.5,87.5
-Gullwing Club at Mercedes-Benz Stadium,14.3,0.0,0.0,14.3,71.4
-Gunshow,3.0,3.4,6.0,10.4,77.3
-Gus chicken,66.7,0.0,0.0,0.0,33.3
-Gus’s World Famous Fried Chicken,6.8,4.2,8.1,19.8,61.1
-Guthrie's,5.0,3.0,7.9,12.9,71.3
-Gyro Bros,11.5,3.8,8.7,24.0,51.9
-Gyu-kaku Japanese BBQ,9.0,4.1,5.2,19.1,62.5
-HOKI Japanese Restaurant,6.1,3.0,5.1,16.2,69.7
-Habitat Kitchen & Bar,16.2,2.9,2.9,5.9,72.1
-"Hal's ""The Steakhouse""",3.7,2.4,5.8,12.9,75.2
-Halal American Deli,1.2,1.7,0.6,4.7,91.9
-Hambone's BBQ,0.0,0.0,0.0,37.5,62.5
-Hans Express,6.3,3.1,12.6,21.3,56.6
-Harold's Chicken & Ice Bar,8.2,4.1,10.4,24.4,52.8
-"Hattie B's Hot Chicken - Atlanta, GA",2.6,2.3,6.1,17.7,71.4
-Hattie Marie's Texas Style BBQ & Cajun Kitchen,9.6,7.2,12.7,17.2,53.3
-Haven Restaurant and Bar,2.2,1.6,6.9,20.8,68.5
-Hawkers Asian Street Food,10.3,6.8,9.4,15.4,58.1
-Healthfull Essence,6.3,2.6,6.5,14.0,70.6
-Helen's Hot Chicken,11.0,4.4,7.4,14.0,63.2
-Henri's Bakery & Deli,4.1,2.4,7.6,17.8,68.0
-Henry's Midtown Tavern,7.5,6.1,10.5,25.9,50.0
-High Velocity,18.6,9.0,17.9,21.2,33.3
-Highland Bakery Downtown GSU,4.7,3.9,20.3,19.5,51.6
-Highland Bakery Midtown,8.2,5.7,9.9,24.4,51.8
-Highland Bistro,1.4,0.0,1.4,0.0,97.3
-HippoHopp,4.4,3.7,8.2,22.3,61.5
-Holy Taco,6.7,5.0,9.4,26.9,52.0
-Home grown GA Restaurant,1.3,1.7,4.5,16.6,76.0
-Honey Bubble,6.1,3.1,7.9,21.4,61.5
-Hong Kong City,11.2,2.0,8.2,22.4,56.1
-Hot Dog Pete's,3.9,2.2,4.5,15.2,74.2
-Houston's,5.1,1.4,5.6,16.8,71.1
-Hsu's Gourmet,3.6,3.4,7.8,24.6,60.7
-Hudson Grille,15.0,7.5,15.1,24.5,37.9
-Hudson’s Grille,20.0,0.0,0.0,20.0,60.0
-Hunan Dragon III,8.0,8.0,4.0,4.0,76.0
-Häagen-Dazs,3.4,2.5,13.6,21.2,59.3
-IHOP,11.8,5.9,12.8,24.4,45.2
-Il Localino,3.6,1.8,3.3,11.0,80.3
-Infinity Restaurant & Lounge LLC,4.1,3.7,9.8,30.1,52.2
-Irby's Tavern,4.5,4.5,7.1,16.0,67.9
-Iron Hill Brewery & Restaurant,8.3,2.1,7.3,9.4,72.9
-Iron Skillet Restaurant,16.2,9.3,12.1,23.5,38.9
-Island Vibes Caribbean Grill,5.7,2.3,6.8,15.2,70.0
-J & J Fish & Chicken,3.7,2.1,7.9,20.7,65.6
-J. Buffalo Wings,15.4,7.1,11.6,20.6,45.4
-J. Christopher's,6.0,2.4,10.2,21.0,60.5
-J.R. Crickets on Main St,15.0,6.0,11.1,19.6,48.4
-JCT. Kitchen & Bar,2.3,1.8,5.9,21.3,68.8
-JINYA Ramen Bar - Buckhead,2.2,1.1,3.0,14.3,79.4
-JJ Fish & Chicken,5.8,3.5,9.9,22.1,58.5
-JJ's Country Cooking,7.6,5.6,12.8,24.3,49.7
-Jack's New Yorker Deli,3.2,4.6,7.3,20.2,64.7
-Jack's Pizza & Wings,7.3,4.2,6.9,22.8,58.7
-Jack's Sandwich Shop,0.0,0.0,0.0,0.0,100.0
-Jai Ho - Indian Kitchen at Krog Street Market,4.3,4.3,4.3,2.2,84.8
-Jalisco Restaurant,8.5,2.0,5.9,20.8,62.9
-Jamba,4.5,2.3,4.5,15.9,72.7
-Jamba Chastain Square,12.9,0.0,3.2,16.1,67.7
-Jamba Madison Yards,14.3,3.6,7.1,7.1,67.9
-Jamba Turner Food Market,0.0,0.0,0.0,0.0,100.0
-Jamrock Jerk Center,8.8,4.4,11.0,19.6,56.2
-Janet's Kitchen Atlanta (Carryout/Dine in),9.1,4.5,8.0,14.8,63.6
-Jason's Deli,4.6,3.2,9.9,24.5,57.7
-Java Jive,3.7,2.6,6.3,17.0,70.5
-Jefe's Tacos & Tequila,8.8,8.8,8.8,26.5,47.1
-JenChan's,1.8,0.0,7.3,3.6,87.3
-Jet's Pizza,11.9,2.5,8.1,21.6,55.9
-Jim 'N Nick's Bar-B-Q,5.3,3.9,8.8,25.0,57.0
-Joe's On Juniper,7.0,4.8,9.7,27.5,51.0
-Joella's Hot Chicken,16.6,8.6,6.5,10.9,57.4
-Johnny Rockets,10.4,4.5,11.1,23.6,50.4
-Josephine Lounge,17.5,6.2,11.8,15.2,49.3
-Joy Cafe,5.7,3.2,5.3,16.1,69.6
-Joystick Gamebar,1.4,2.4,7.5,25.9,62.8
-Ju-c Bar,0.0,0.0,0.0,0.0,100.0
-Junior's Pizza,6.3,4.0,6.9,10.9,71.8
-Just Around the Corner,3.3,2.9,7.8,18.4,67.6
-K BBQ Taco,0.9,1.4,4.6,14.7,78.4
-KP Soul Food LLC,12.5,0.0,25.0,12.5,50.0
-KR SteakBar,3.2,1.5,2.9,15.8,76.6
-Kale Me Crazy Vinings | Health Food Restaurant,8.0,2.3,9.1,11.4,69.3
-Kale Me Crazy | Health Food Cafe Brookhaven Atlanta,9.1,3.0,6.1,18.9,62.9
-Kale Me Crazy | Health Food Cafe Inman Park Atlanta,6.0,6.0,4.2,23.8,60.1
-Kale Me Crazy | Health Food Cafe Midtown Atlanta,7.2,7.7,6.2,13.8,65.1
-Kale Me Crazy | Health Food Cafe Morningside/Highlands Atlanta,5.5,0.0,5.5,16.4,72.7
-Kale Me Crazy | Health Food Restaurant Grant Park Atlanta,9.5,8.3,4.8,25.0,52.4
-Kale Me Crazy | Health Food Restaurant Smyrna,15.6,6.5,11.7,10.4,55.8
-Kale Me Crazy | Health Food Restaurant Toco Hills Atlanta,3.6,3.6,7.1,7.1,78.6
-Kaleidoscope Bistro & Pub,2.8,2.2,9.3,26.4,59.3
-Kelz Kitchen,17.0,4.9,8.8,17.9,51.4
-Ken's Corner Grill,4.2,3.4,9.2,25.9,57.3
-Kenley's Catering And Restaurant,5.8,3.8,6.4,14.1,69.9
-Kevin Rathbun Steak,1.8,2.5,4.9,10.9,80.0
-Kings Cornbeef & Deli,2.2,0.0,2.2,8.9,86.7
-Kirkyard Public House,4.0,3.3,9.3,29.9,53.5
-Kiss Ultra Lounge,11.7,1.6,9.4,15.6,61.7
-Kodaks kitchen,16.7,0.0,0.0,16.7,66.7
-Kong's Kitchen,34.2,6.8,2.7,10.3,45.9
-Krab Queenz,14.0,8.0,9.0,12.6,56.3
-Krystal,19.1,9.1,17.9,21.1,32.8
-Kwan's Deli and Korean Kitchen,3.0,2.5,8.8,22.9,62.7
-Kyma,3.1,2.3,4.8,16.5,73.3
-L T's Wings,7.1,8.3,14.6,17.5,52.5
-LAS DELICIAS SUPERMERCADO,7.7,5.1,11.5,14.1,61.5
-LEON's Full Service,1.7,1.0,6.0,20.5,70.9
-LT New Orleans Seafood Market,10.1,4.4,9.4,23.3,52.8
-La Confianza,6.2,2.1,6.2,18.8,66.7
-La Costenita Taqueria & Wings,2.0,0.0,1.0,0.0,96.9
-La Costilla Grill Atlanta,11.9,3.1,3.9,11.9,69.2
-La Fonda Latina,3.0,2.3,7.9,26.7,60.1
-La Grotta Ristorante,1.7,2.2,2.0,9.7,84.4
-La Hacienda,8.9,3.9,8.8,21.9,56.5
-La Parrilla Mexican Restaurant,4.6,2.9,7.5,23.8,61.1
-Ladybird Grove & Mess Hall,3.1,2.5,7.7,26.5,60.2
-Lake & Oak,3.0,1.2,3.0,14.6,78.0
-Lakewood Diner,4.7,3.1,10.4,23.5,58.4
-Landmark Diner,9.6,5.8,11.7,21.3,51.6
-Landmark Diner - Downtown,11.5,7.1,11.9,26.6,42.9
-Las Brasas,7.3,3.5,7.5,19.4,62.3
-Lazy Betty,3.4,0.0,1.0,5.8,89.8
-Lazy Llama Cantina,24.1,3.7,10.2,13.0,49.1
-Le Fat,6.2,4.1,9.0,20.9,59.8
-League Tavern,17.6,8.3,12.0,13.9,48.1
-Legends Restaurant & Lounge,66.7,0.0,33.3,0.0,0.0
-Lenox Parking Food Center,0.0,0.0,12.5,16.7,70.8
-Levy at the Georgia World Congress Center,17.6,0.0,5.9,17.6,58.8
-Lickety Split Southern Kitchen & Bar,8.2,3.4,6.4,15.6,66.3
-Limerick Junction Pub,3.2,1.9,4.5,16.1,74.2
-Lingering Shade Social Club,11.3,4.8,11.3,12.9,59.7
-"Lips Drag Queen Show Palace, Restaurant & Bar",2.6,2.9,4.9,17.7,71.9
-Little Bear,0.0,0.0,1.1,0.0,98.9
-Little Caesars Pizza,10.1,3.5,14.0,25.0,47.4
-Little Five Points Pizza,4.9,2.4,6.9,23.5,62.4
-Little Lagos,12.7,5.7,10.4,16.0,55.2
-Little Rey,3.7,2.8,6.7,15.7,71.1
-Little Trouble,3.4,1.8,6.2,26.0,62.5
-Livingston,15.7,7.4,11.6,19.8,45.5
-Loca Luna,6.7,3.7,9.2,23.0,57.4
-Local Green Atlanta,2.9,0.9,8.6,8.3,79.3
-Local Three Kitchen & Bar,1.7,2.8,5.9,20.7,68.8
-Los Bravos Mexican Restaurant,3.6,2.9,9.4,22.1,62.0
-Lov'n It Live,3.9,2.2,2.8,16.3,74.9
-Lovies BBQ,3.7,3.9,8.4,19.7,64.2
-LowCountry Steak,2.3,7.0,8.1,11.6,70.9
-Lucky China 8 Chinese Restaurant,51.5,8.3,11.4,12.9,15.9
-Lucky's,1.8,2.9,6.3,19.3,69.7
-Lumen - Lobby Bar,6.4,6.4,4.3,21.3,61.7
-Lunch Box,23.2,9.4,18.8,11.6,37.0
-Lunch on Main Street,2.3,2.0,7.3,26.1,62.3
-Lyfe ATL,10.4,1.9,10.4,24.5,52.8
-Lyla Lila,3.2,2.1,1.1,7.4,86.3
-M&M’s Comfort Zone,12.5,0.0,0.0,0.0,87.5
-MA's Hot Takes,0.0,0.0,0.0,0.0,100.0
-MF Buckhead,16.7,33.3,0.0,16.7,33.3
-MSR My Sisters Room,9.0,3.4,7.9,21.4,58.3
-MTH Pizza,6.5,4.7,1.9,6.5,80.4
-Mac McGee Irish Pub,1.2,2.2,7.2,21.8,67.6
-Macho Nacho,9.3,3.1,21.6,23.7,42.3
-Madhouse Lounge,18.5,12.3,12.3,18.5,38.5
-Maepole,0.0,4.2,8.3,8.3,79.2
-Maestri Della Pizza Napoletana,0.0,0.0,0.0,0.0,100.0
-Maggiano's Little Italy,3.1,3.0,8.1,21.5,64.3
-Magic City,16.3,3.8,4.6,11.2,64.1
-Magnolia Grill,1.8,7.0,14.0,42.1,35.1
-Main Event Atlanta,7.9,4.4,10.9,24.1,52.7
-Majestic Diner,4.5,2.5,9.4,23.3,60.3
-Malaya Restaurant,8.4,3.7,4.7,15.4,67.8
-Mali Restaurant,3.5,2.9,5.0,23.7,64.9
-Mandarin Express,21.2,6.1,15.2,27.3,30.3
-Mangos Caribbean Restaurant,15.5,6.8,10.1,18.5,49.0
-Manuel's Tavern,0.9,1.0,7.0,23.0,68.1
-Marco's Pita,0.0,0.0,0.0,40.0,60.0
-Marguerite’s Jerk Bistro,5.3,2.6,2.6,5.3,84.2
-Marie's@Ummat Cafe,2.9,4.4,8.8,11.8,72.1
-Maritza & Franks,33.3,0.0,0.0,33.3,33.3
-Maru Sushi,1.6,1.5,4.7,16.9,75.2
-Mary Mac's Tea Room,3.4,3.5,8.3,18.6,66.1
-Masti - Indian Street Eats,5.3,4.4,7.9,25.8,56.6
-Match Bar& Oven,6.4,3.2,10.2,25.7,54.5
-MattChews,0.0,0.0,2.3,7.0,90.7
-Max's Coal Oven Pizzeria,3.2,3.5,8.8,27.2,57.3
-McAlister's Deli,8.0,5.6,9.0,19.1,58.3
-McCormick & Schmick's Seafood & Steaks,11.6,7.2,10.3,21.6,49.3
-McDonald's,23.5,9.8,18.0,18.9,29.8
-McKinnon's Louisiane,5.1,5.4,6.1,13.5,69.9
-Mediterranea Restaurant & Bakery,0.9,2.4,3.3,15.1,78.4
-Mediterranean Food Atlanta | Lavash Mediterranean Grill,8.0,2.9,3.2,6.9,79.0
-Mediterranean Grill,5.8,3.7,5.8,20.1,64.6
-Medusa,16.1,6.3,13.0,20.1,44.4
-Meehan's Public House Downtown,2.7,3.4,9.8,30.5,53.6
-Meko's,2.9,0.0,0.0,2.9,94.3
-Mela Ethiopian Kitchen. Welcome to Delicious!,2.5,0.6,1.3,7.0,88.6
-Melia Hotel Atlanta,15.5,20.7,10.3,25.9,27.6
-Mellow Mushroom Atlanta - Brookhaven,4.5,4.2,8.4,25.2,57.8
-Mellow Mushroom Atlanta - Buckhead,3.7,2.4,5.5,26.8,61.5
-Mellow Mushroom Atlanta - Downtown,4.4,3.8,9.3,25.3,57.3
-Mellow Mushroom Atlanta - Emory,4.2,1.5,5.8,25.9,62.6
-Mellow Mushroom Atlanta - Midtown,8.4,4.8,12.2,24.9,49.6
-Mellow Mushroom Atlanta - Vinings,4.4,2.1,4.7,23.1,65.7
-Mellow Mushroom College Park,5.2,5.0,10.6,26.0,53.1
-Mellow Mushroom Decatur,4.1,2.7,6.0,23.4,63.7
-Melton's App & Tap,1.1,1.4,5.8,26.0,65.6
-Memphis Smokehouse,24.2,5.3,6.3,13.7,50.5
-Metro Café Diner and Bar,7.0,5.5,12.5,25.6,49.4
-Metro Fun Center,8.6,6.0,13.9,21.9,49.6
-MetroFresh Uptown,0.0,0.0,0.0,7.7,92.3
-Mezcalito's Cocina & Tequila Bar,4.7,3.7,8.3,25.6,57.7
-Mezza Luna Pasta and Seafood,1.3,0.9,3.1,13.3,81.4
-Mi Barrio Mexican Restaurant,6.1,2.8,8.0,16.4,66.7
-Michael's Cafe,27.8,0.9,5.6,23.1,42.6
-Midtown Bowl,3.7,3.7,12.3,28.2,52.2
-Midtown Diner,20.4,3.7,13.0,11.1,51.9
-Midtown Moon - Atlanta,10.5,3.5,2.3,19.8,64.0
-Midtown Plaza Cafe,0.0,12.5,0.0,12.5,75.0
-Mikkeys Retro Grill,10.3,4.3,3.4,6.8,75.2
-Miller Union,2.8,2.3,5.9,20.2,68.8
-Minato Japanese Restaurant,4.3,2.6,2.7,10.1,80.3
-Moe's,9.9,6.7,10.6,22.3,50.4
-Moe's Original BBQ - Atlanta,3.4,4.6,10.9,21.9,59.2
-Moe's Southwest Grill,10.5,5.5,12.5,26.0,45.5
-Mojo Pizza N' Pub,9.0,5.2,9.3,23.9,52.6
-Molly B's,8.8,0.0,4.4,14.7,72.1
-Monterrey mexican Restaurant#21,7.2,4.1,11.3,21.4,56.0
-Morningside Kitchen Restaurant,2.6,3.2,9.1,31.2,53.9
-Morris Restaurant & Lounge,6.2,2.3,6.2,15.6,69.5
-Morton's The Steakhouse,2.6,2.9,5.2,16.1,73.3
-Mr Fries Man,13.0,2.2,0.0,15.2,69.6
-Mr Soul Bistro & Cafe,20.9,1.5,4.5,9.0,64.2
-Mr. C's Bar & Grill,9.4,1.3,3.4,22.1,63.8
-Mr. Pig's Smokehouse,13.8,5.0,8.2,16.4,56.6
-Muchacho,2.2,1.6,6.7,18.9,70.5
-Mukja Korean Fried Chicken,3.8,2.2,2.7,11.9,79.5
-Murphy's Restaurant,1.9,1.8,4.9,20.0,71.4
-Muss & Turner's,1.9,2.7,4.8,18.5,72.1
-My Potato Factory,0.0,1.4,0.5,9.6,88.5
-NM Cafe,14.3,7.1,0.0,14.3,64.3
-NaanStop,7.4,4.5,10.8,19.8,57.6
-Nan Thai Fine Dining,1.7,1.6,4.0,13.9,78.8
-Nancy’s Pizza Campcreek,9.9,5.6,8.8,21.1,54.7
-Napoleon's,3.3,4.7,9.6,27.7,54.8
-Neighborhood Wraps and Smoothies,6.2,6.2,0.0,0.0,87.5
-New Realm Brewing,5.8,4.9,8.8,20.4,60.2
-New York Prime,4.7,2.9,6.2,15.2,71.0
-Newk's Eatery,5.2,3.5,7.6,27.5,56.3
-Nick's Food To Go,2.0,1.3,2.7,14.1,79.8
-Nick's Westside,2.1,3.5,9.1,12.6,72.7
-Nicky's Seafood,7.4,11.1,7.4,25.9,48.1
-Nicola's Restaurant,2.7,2.3,2.3,10.5,82.2
-Nina & Rafi,9.2,5.1,4.5,14.3,66.8
-Nino's Italian Restaurant,2.9,2.2,4.7,17.3,72.9
-Niramish Indian Cuisine,8.1,4.3,6.0,17.1,64.5
-No Mas! Cantina,4.9,4.6,8.5,20.7,61.2
-No.1 China,14.9,2.8,5.6,16.7,60.0
-Noodle,2.3,2.1,8.4,24.5,62.6
-Noodle Cafe,2.9,8.6,14.3,20.0,54.3
-Nouveau Bar&Grill,8.1,3.8,5.7,11.3,71.0
-Nova II Sushi Bar & Asian Bistro,0.0,0.0,0.0,0.0,100.0
-Nova Sushi Bar & Asian Bistro,3.7,3.0,5.9,20.3,67.1
-Nox Creek Lounge,33.3,33.3,33.3,0.0,0.0
-Nuevo Laredo Cantina,2.9,2.2,5.2,18.6,71.1
-O Mi Ga Vietnamese Kitchen,5.6,0.0,0.0,11.1,83.3
-O-Ku,4.6,4.4,7.3,17.8,65.8
-OK Cafe,4.0,2.0,4.8,17.6,71.6
-Oak Grove Market,3.1,0.0,2.0,16.3,78.6
-Oak Street Eats,31.2,12.5,12.5,0.0,43.8
-Old Lady Gang,17.3,9.1,12.3,18.2,43.1
-Old Vinings Inn,4.4,3.9,4.9,19.2,67.5
-Ole Reliable,12.5,25.0,12.5,12.5,37.5
-Olive Bistro Vinings,1.4,1.4,4.2,17.6,75.4
-Olympic Flame Restaurant,10.4,4.2,8.3,25.0,52.1
-Omakase by Yun @ Chirori Yakitori and Kushikatsu,0.0,0.0,0.0,0.0,100.0
-Omni Atlanta Hotel at CNN Center,0.0,0.0,0.0,100.0,0.0
-On The Border Mexican Grill & Cantina,10.0,5.9,10.0,16.9,57.2
-One Eared Stag,5.3,3.5,10.4,21.3,59.6
-One Rooster Mongolian Grill,0.4,1.3,4.2,25.6,68.5
-Ooo Wee Just Taste It,3.8,0.0,5.7,20.8,69.8
-Orient Express,4.6,2.0,6.3,21.9,65.3
-Ormsby's,3.0,2.5,7.7,29.0,57.8
-Osteria 832 Pasta & Pizza,4.7,2.6,9.9,23.5,59.3
-Our Bar ATL,0.7,1.5,1.5,8.2,88.1
-Outback Steakhouse,7.2,5.3,9.5,24.1,54.0
-Oy!,9.8,7.0,11.8,20.0,51.3
-PITA Mediterranean Street Food,25.3,9.3,8.0,17.3,40.0
-POKE CITY,1.3,2.6,3.3,12.4,80.4
-PONKO Chicken,3.4,2.8,7.1,15.7,71.1
-Paces & Vine Restaurant,2.2,3.6,6.7,20.1,67.3
-Padriac's,1.4,1.9,8.2,27.5,60.9
-Paige’s Pastries & Bistro,5.6,0.0,0.0,0.0,94.4
-Pancake Social,13.8,11.5,10.5,19.1,45.1
-Pancho's Mexican Restaurant & Cantina,9.0,5.6,12.5,21.8,51.0
-Panda Express,13.5,6.0,14.4,23.9,42.1
-Papinos Italian Restaurant,6.2,6.2,12.5,50.0,25.0
-Paris Bistro,0.0,3.8,3.8,19.2,73.1
-Park 27 Korean BBQ and Bar,10.1,7.6,7.0,6.3,69.0
-Park Bar,3.5,2.5,8.5,29.7,55.7
-Park Tavern,11.1,5.4,9.6,21.3,52.6
-Parker's on Ponce,1.1,1.6,7.0,19.1,71.2
-Parkway Cafe,0.0,0.0,0.0,50.0,50.0
-Pasha Restaurant and Bar,17.9,3.6,5.7,15.5,57.3
-Pasta Vino,5.1,4.0,6.1,15.2,69.7
-Patria Cocina,5.1,3.1,7.0,19.0,65.8
-Paul's Restaurant,0.0,0.0,0.0,25.0,75.0
-Peach Cobbler Café,32.4,16.2,11.7,11.7,27.9
-Pearl Benet Restaurant and Bar,5.3,0.0,5.3,10.5,78.9
-Pearl Lounge ATL,13.9,2.8,8.3,22.2,52.8
-Pecan,14.3,3.6,14.3,21.4,46.4
-Pegasus Restaurant & Lounge,14.0,3.5,11.4,14.0,57.0
-Penn Station East Coast Subs,21.2,7.6,9.1,19.3,42.8
-Penthouse ATL Restaurant & Lounge,0.0,7.1,14.3,14.3,64.3
-Petite Violette,1.4,2.7,4.8,20.2,71.0
-Phat Phish Cafe,9.7,6.1,12.2,23.0,48.9
-Phew's Pies,1.3,0.0,0.0,2.6,96.2
-Pho 24,7.8,3.7,10.1,25.7,52.6
-Pho Dai Loi #2,3.4,1.5,4.5,22.9,67.7
-Pho King Express,0.0,7.3,7.3,5.5,80.0
-Pho King Midtown,5.9,4.2,7.9,28.1,53.8
-Pho kitchen - PHO KITCHEN ATLANTA,6.1,4.4,10.3,24.4,54.8
-Piccadilly,6.1,4.4,13.6,28.6,47.2
-Piedmont Central Dining Hall,7.9,5.3,5.3,21.1,60.5
-Pijiu Belly,1.4,2.0,5.1,23.3,68.2
-Pin & Proper,7.9,4.8,9.6,21.6,56.0
-Pita Mediterranean Street Food,9.0,5.7,11.3,22.3,51.8
-Pittypat's Porch,7.8,7.7,11.9,20.3,52.3
-Piu Bello Buckhead,7.5,3.0,3.7,13.4,72.4
-Pizza Bella,11.8,3.9,4.5,15.2,64.6
-Pizza Hut,30.6,9.1,12.6,15.9,31.9
-Pizza Semplice,5.5,1.8,1.8,10.9,80.0
-Playa Bowls Beltline,10.6,1.3,3.5,8.8,75.8
-Poke Bar,4.2,6.2,4.2,6.2,79.2
-Poke Bar Decatur,3.4,0.8,5.0,14.7,76.1
-Polaris,3.5,3.5,4.5,21.0,67.5
-Pollo Campero (Buford Hwy),9.9,4.6,10.3,17.9,57.2
-Poor Hendrix,0.7,0.7,2.0,16.1,80.5
-Popeyes,12.6,8.3,15.0,21.4,42.7
-Popeyes Louisiana Kitchen,16.2,7.5,15.0,21.3,40.0
-Poppin Pita Grill,11.5,4.9,8.3,14.8,60.4
-Porch Light Latin Kitchen,2.0,1.7,2.5,9.7,84.1
-Portofino,2.6,0.9,4.4,15.0,77.1
-Pour Taproom: Beltline,3.2,4.6,3.2,18.3,70.6
-Pour. Kitchen + Bar,4.4,2.5,8.2,22.2,62.7
-Pretty Little Taco Truck,12.5,25.0,0.0,0.0,62.5
-Princi Italia,8.5,7.6,9.1,20.1,54.6
-Proscenium Cafe & Market,0.0,0.0,0.0,26.7,73.3
-Public House 28,2.6,2.6,7.2,13.8,73.7
-Public School 404,2.9,3.7,10.1,29.8,53.5
-Publik Draft House,3.3,3.6,7.9,25.7,59.5
-Puff & Petals,16.7,6.8,11.1,18.9,46.4
-Pura Vida,0.0,0.0,14.3,14.3,71.4
-Pure Taqueria,1.9,2.4,9.7,27.9,58.1
-Pyng Ho Chinese restaurant,10.1,7.2,9.4,17.4,55.8
-Q - Time Restaurant,5.0,4.2,10.3,21.1,59.4
-Q's Restaurant,6.9,5.2,8.2,25.4,54.3
-QDOBA Mexican Eats,24.0,0.0,16.0,16.0,44.0
-Queen of Sheba Lounge,15.2,4.3,2.2,21.7,56.5
-Quiznos,13.5,4.1,11.6,24.0,46.7
-RUCHI Bangladeshi Cuisine,4.5,4.1,3.7,14.0,73.6
-Rain Thai & Sushi Bar,5.1,1.8,3.8,24.2,65.1
-Ramen Station,5.3,6.1,13.1,18.0,57.6
-Rande voo Resturant lounge,0.0,0.0,25.0,0.0,75.0
-Randevoo Restaurant Lounge,14.3,0.0,3.6,7.1,75.0
-Ration and Dram,5.6,5.0,7.7,23.7,58.0
-Ray JR.'s RAPZ ( SALAD'S &JUICE BAR,0.0,0.0,5.9,5.9,88.2
-Ray's In the City,3.8,2.5,6.7,17.8,69.2
-Recess,5.2,2.6,2.6,15.7,73.9
-Red Pepper Taqueria,8.5,4.0,10.2,25.0,52.2
-Red Phone Booth,3.9,2.0,4.3,13.0,76.9
-Red's Beer Garden,0.7,0.0,2.2,2.2,94.9
-Republic Lounge,6.7,3.6,8.8,25.4,55.4
-Restaurant 356,2.9,2.9,5.8,12.5,76.0
-Revival,1.1,2.9,8.0,18.4,69.6
-Richards' Southern Fried,18.8,12.0,7.7,14.4,47.1
-Rico Rico Latin kitchen,3.7,0.0,0.0,3.7,92.6
-"Rising Roll Gourmet Cafe in Atlantic Station, GA",16.7,11.1,0.0,27.8,44.4
-Rising Roll Gourmet Café Downtown Atlanta,2.7,2.7,8.0,23.9,62.8
-Rising Roll Gourmet Café Piedmont West,30.8,0.0,15.4,15.4,38.5
-Roasters Rotisserie,1.8,1.4,4.8,21.8,70.2
-Roc South Cuisine,2.8,1.5,4.4,12.3,79.0
-Rock Steady - Atlanta,6.4,2.1,8.9,14.5,68.1
-Rodney Scott's BBQ Atlanta,13.4,9.0,19.4,10.4,47.8
-Romeos pizza and bistro,40.0,0.0,0.0,0.0,60.0
-Rosa's Pizza,1.9,1.6,5.4,16.8,74.3
-Rowdy Tiger Whiskey Bar & Kitchen,12.8,6.4,20.5,16.7,43.6
-Rreal Tacos,3.3,2.6,7.2,20.5,66.3
-Ru San's,6.2,3.4,7.6,23.6,59.3
-Ruby Tuesday,18.6,9.6,16.8,23.3,31.7
-Ruth's Chris Steak House,8.2,5.2,10.2,14.5,61.9
-STATS Brewpub,6.8,4.5,12.0,26.7,50.0
-STREET BISTRO,10.2,0.8,5.9,9.3,73.7
-Saba,7.4,4.6,8.6,20.0,59.4
-Sabor Dominicano,7.3,3.2,9.5,16.5,63.5
-"Saito - Sushi, Steak & Cocktails",7.9,2.6,2.6,5.3,81.6
-Sakura Ramen Bar,0.0,4.2,0.0,8.3,87.5
-Saladworks,7.5,5.0,6.7,19.2,61.7
-Salaryman,7.8,4.7,5.5,16.4,65.6
-Salata,7.6,3.5,7.8,13.8,67.3
-Saltwood Charcuterie & Bar,3.5,5.8,10.5,22.1,58.1
-Sam’s of San Francisco,4.2,8.3,4.2,8.3,75.0
-Sarku Japan,11.2,0.7,14.2,19.4,54.5
-Sauce Buckhead,7.2,0.0,2.9,15.9,73.9
-Savage Pizza,2.2,2.5,6.3,21.2,67.9
-Sbarro,100.0,0.0,0.0,0.0,0.0
-Schlotzsky's,1.4,2.8,8.5,24.3,63.0
-Schlotzsky's Austin Eatery,9.4,4.9,9.4,26.9,49.3
-Scoreboard Sports Lounge,0.0,0.0,0.0,0.0,100.0
-Scout,1.8,2.1,7.7,24.1,64.4
-Scoville Hot Chicken,0.0,0.0,0.0,3.7,96.3
-Sea Salt Seafood Lounge,10.5,10.5,7.9,15.8,55.3
-Sean’s Heart of the Park,4.6,2.3,3.4,12.6,77.0
-Sear,7.1,5.4,8.3,23.8,55.4
-Senegambia Restaurant,17.5,3.5,3.5,14.0,61.4
-Senor Patron,4.5,3.4,8.8,26.6,56.8
-Serena Pastificio,0.0,5.9,5.9,11.8,76.5
-Serpas,4.0,2.8,5.5,19.1,68.6
-Seven Lamps,2.3,2.3,8.8,25.0,61.6
-Shakespeare Tavern Playhouse,1.2,0.6,1.7,10.2,86.3
-Shane's Rib Shack,5.7,3.8,7.4,23.7,59.5
-Shell,14.6,3.8,30.3,17.8,33.5
-Shorty's,3.5,1.3,6.6,24.6,64.0
-Showcase Food Gallery,1.2,1.2,2.5,10.8,84.2
-Sidechick,5.1,3.7,5.9,16.2,69.1
-Silom Thai & Sushi,2.6,1.3,4.0,19.2,72.8
-Silver Skillet,2.1,2.6,8.3,21.7,65.4
-Siracusa's New York Pizzeria,6.7,3.7,6.1,20.7,62.8
-Sivas Hookah Lounge,10.3,3.8,9.4,23.2,53.2
-Six Feet Under Pub & Fish House,3.6,3.7,9.4,28.8,54.6
-Skilled Cheese,12.5,0.0,0.0,12.5,75.0
-Skinny's Restaurant,2.1,2.3,7.3,19.6,68.7
-Slack's Restaurant & Bar,40.0,20.0,0.0,20.0,20.0
-Slice Downtown,2.2,2.4,5.5,26.2,63.8
-Slideways,3.4,4.3,7.9,29.3,55.2
-SluttyVegan ATL,1.7,0.6,2.8,7.3,87.6
-Smith's Olde Bar,1.8,1.3,6.3,25.6,65.0
-Snappers Fish & Chicken,37.0,3.7,14.8,3.7,40.7
-So Ba Vietnamese Restaurant,3.0,2.3,7.8,23.1,63.8
-Social Market & Cafe,11.5,0.0,3.8,7.7,76.9
-Sonic Drive-In,19.4,8.8,14.8,21.3,35.7
-Soul Good Fine Food,6.6,1.5,2.0,8.6,81.3
-Soul Vegetarian Restaurant,7.1,4.3,9.4,18.2,61.0
-Souper Jenny,1.9,1.9,4.3,14.8,77.0
-South City Kitchen Buckhead,1.6,1.8,7.2,21.2,68.0
-South City Kitchen Midtown,1.7,1.0,5.4,21.0,70.9
-South City Kitchen Vinings,2.1,1.6,7.5,18.1,70.7
-Southern Art and Bourbon Bar,6.0,5.7,9.6,22.1,56.6
-Sovereign Sweets,6.9,0.0,0.0,0.0,93.1
-Spin,4.2,2.1,8.3,18.8,66.7
-Spoon EastSide Restaurant,3.0,2.1,5.5,20.9,68.5
-Ssam Burger,1.2,0.4,3.2,18.1,77.0
-St Angelo's Pizza,8.8,1.9,6.9,20.8,61.5
-St. Cecilia,1.5,1.8,3.6,18.5,74.6
-Stan's Smoke Signals,0.0,0.0,0.0,28.6,71.4
-Star Cafe,5.5,2.6,4.0,14.6,73.4
-Star Provisions Market & Cafe,2.8,4.9,7.7,16.4,68.3
-Starfish Restaurant,4.6,2.9,4.6,14.9,73.1
-Stationside,0.0,4.0,4.0,32.0,60.0
-Steinbecks Restaurant,0.6,1.3,6.4,17.6,74.0
-Steve O's,0.0,0.0,0.0,14.3,85.7
-Stoney River Steakhouse and Grill,2.6,1.9,5.3,18.8,71.3
-Storico Fresco Alimentari e Ristorante,4.5,2.7,6.5,16.9,69.4
-Storico Vino,16.7,0.0,0.0,0.0,83.3
-Streatery,16.7,0.0,11.1,11.1,61.1
-Subway,18.2,6.1,11.4,20.3,43.9
-Sufi's Kitchen,11.0,4.5,8.2,17.8,58.4
-Suite Food Lounge,7.7,4.4,11.3,25.1,51.5
-Sun in My Belly,1.8,3.5,6.9,22.3,65.5
-Superica,2.5,2.4,6.3,20.2,68.6
-Supreme Fish Delight,5.1,4.1,9.5,23.1,58.2
-"Supreme Fish Delight, Camp Creek",8.3,4.1,9.6,16.5,61.5
-Sushi Avenue,3.3,2.9,4.8,17.2,71.8
-Sushi Avenue on the Square,1.3,0.8,5.7,21.1,71.1
-Sushi Kiku,3.6,2.1,9.1,24.7,60.6
-Sushi Tong,3.0,1.8,4.8,10.9,79.4
-Sushinobo,1.2,2.4,4.2,9.5,82.7
-Suya Grill,0.0,25.0,0.0,12.5,62.5
-Swan Coach House,4.9,0.7,5.2,16.8,72.4
-Sway,7.5,6.8,15.8,18.3,51.6
-Sweet & Fresh,10.4,2.4,3.8,4.9,78.5
-Sweet Auburn BBQ,3.8,2.7,7.4,19.3,66.8
-Sweet Auburn Barbecue Curb Market,3.8,6.4,5.1,21.8,62.8
-Sweet Georgia's Juke Joint,7.4,4.4,8.3,21.0,58.9
-Sweet-Stack Creamery,3.0,1.1,5.2,13.1,77.6
-SweetWater Brewing Company,3.5,3.1,3.5,14.1,75.8
-TGI Fridays,20.7,7.1,13.2,20.0,38.9
-THERE Gastropub,2.8,3.8,8.0,18.4,67.0
-TRACE Atlanta,4.3,17.4,13.0,34.8,30.4
-TWO urban licks,3.6,3.4,7.6,21.8,63.6
-Taco Bell,14.6,6.5,16.3,22.2,40.5
-Taco Mac,29.9,12.3,12.7,20.8,24.3
-Taco Mac Cumberland,13.6,6.9,12.1,24.3,43.1
-Taco Mac Decatur,11.6,6.7,13.3,25.7,42.7
-Taco Mac Lindbergh,13.8,6.1,12.4,24.6,43.1
-Taco Mac Metropolis,13.4,7.2,14.3,24.9,40.3
-Taco Mac Virginia Highlands,7.9,4.5,12.8,29.1,45.7
-Taco Pete Bistro,4.6,2.8,3.7,20.4,68.5
-Taichi Bubble Tea,6.8,2.7,5.4,10.8,74.3
-Taka Sushi Restaurant,7.0,3.2,8.9,22.2,58.9
-Talat Market,0.0,1.3,2.6,5.1,91.0
-Tanaka ramen,7.8,5.4,7.4,19.1,60.3
-Tantra Restaurant & Lounge,7.1,0.0,7.1,35.7,50.0
-Tapa Tapa,10.4,2.1,16.7,14.6,56.2
-Taqueria Acapulco,6.8,4.5,6.8,9.1,72.7
-Taqueria Michoacan,11.1,5.6,12.6,22.2,48.5
-Taqueria Tsunami,8.6,7.4,8.6,17.3,58.0
-Taqueria del Sol,3.7,2.4,4.1,20.3,69.5
-Taqueria on Broad,1.8,3.3,4.2,17.9,72.9
-"Taquería""Mami's",2.9,4.4,1.5,16.2,75.0
-Taste Of India,39.3,10.7,3.6,14.3,32.1
-Taste of Tropical,11.4,1.8,8.1,14.0,64.7
-Tasty China Jia,14.9,6.9,8.7,18.7,50.8
-Tavernpointe,3.3,3.3,9.4,29.0,55.0
-Taxco Restaurante Mexicano,4.0,3.0,9.6,20.4,63.0
-Terri's Cafe Inc,6.1,4.5,1.5,6.1,81.8
-Thai Diner,4.7,2.8,4.2,23.8,64.5
-The Abby Singer,0.0,0.0,0.0,0.0,100.0
-The BQE Restaurant & Lounge,12.4,5.5,9.3,22.1,50.7
-The Bando,10.2,2.3,2.3,6.8,78.4
-The Betty,0.0,6.2,0.0,12.5,81.2
-The Beverly,4.8,2.7,6.3,18.8,67.5
-The Big Ketch Saltwater Grill - Buckhead,4.6,3.9,10.1,27.9,53.5
-The Blind Pig Parlour Bar,1.8,2.4,8.9,15.5,71.4
-The Brasserie and Neighborhood Cafe at PARISH,2.1,2.9,7.7,25.0,62.3
-The Brasserie at Bazati,10.8,7.0,6.5,14.6,61.1
-The Bucket Shop Cafe,4.6,3.6,6.4,27.4,58.0
-The Chastain - New American Bistro,3.9,6.6,5.3,9.2,75.0
-The Cheesecake Factory,8.9,5.4,9.8,21.8,54.0
-The Companion,0.0,0.0,0.8,12.5,86.7
-The Corner Grille,3.5,2.0,6.7,18.5,69.4
-The Deer and The Dove,5.5,3.9,5.5,8.6,76.6
-The Drafting Table Cocktails & Kitchen,0.0,0.0,12.5,0.0,87.5
-The Duck Club,0.0,20.0,20.0,40.0,20.0
-The Dwarf House,1.4,0.7,8.5,16.2,73.2
-The Family Dog,2.9,3.6,5.4,23.4,64.7
-The Federal,6.5,3.8,7.5,22.6,59.7
-The Fill Up Station,11.8,6.6,5.9,8.1,67.6
-The French Market & Tavern - Vinings,10.9,2.2,4.3,10.9,71.7
-The Gathering Spot ATL,1.4,1.1,4.6,17.5,75.4
-The Gavel Cafe,12.5,12.5,25.0,12.5,37.5
-The Glenwood,4.9,3.4,9.3,23.7,58.7
-"The Goodz (Seafood, Steak and Cocktails)",40.0,6.7,5.2,1.5,46.7
-The Greater Good BBQ,7.2,2.4,6.6,17.5,66.3
-The Grill Shack,0.0,0.0,0.0,100.0,0.0
-The Grove Restaurant & Tavern,2.2,2.0,7.1,28.4,60.3
-The Halal Guys | Midtown,6.1,1.3,4.6,10.4,77.6
-The Highlander,2.5,2.3,5.2,17.1,72.8
-The Hive Buckhead,23.0,10.2,7.3,10.7,48.7
-The Iberian Pig,1.7,1.4,3.4,15.2,78.3
-The Ivory Restaurant,29.3,7.6,4.3,15.2,43.5
-The Juicy Crab,6.4,2.6,3.5,6.9,80.5
-The Lawrence,4.2,3.3,8.0,22.0,62.5
-The Marlay House,2.0,2.0,5.6,24.6,65.8
-The Melting Pot,3.2,3.2,7.1,19.2,67.4
-The Midway Pub,2.5,1.7,7.2,28.2,60.4
-The Nook on Piedmont Park,7.6,5.1,10.5,24.5,52.4
-The Original El Taco,3.3,3.1,8.2,23.1,62.3
-The Original J.R. Crickets in Midtown Atlanta,9.6,4.8,13.8,23.9,47.9
-The Painted Duck,1.7,0.8,4.9,20.9,71.7
-The Painted Pin,4.2,2.2,5.8,23.1,64.7
-The Pantry & Provisions | Gourmet Sandwiches & Cheffy Bodega,4.2,0.0,0.0,4.2,91.7
-The Patio Social Club,2.3,0.0,0.0,15.9,81.8
-The Piedmont Room,5.3,2.6,2.6,31.6,57.9
-The Pig and The Pearl,7.8,7.4,11.7,23.8,49.3
-The Pinewood,2.2,3.8,7.9,21.7,64.5
-The Porter Beer Bar,0.5,0.9,3.2,15.7,79.8
-The Projects Restaurant and Lounge,19.2,3.8,3.8,11.5,61.5
-The Public House,9.1,10.4,3.9,16.9,59.7
-The Punchline Comedy Club,3.9,1.8,9.7,25.0,59.6
-The Regent Cocktail Club,4.4,1.6,6.9,19.4,67.7
-The Roast,10.3,14.1,19.2,20.5,35.9
-The Roof at Ponce City Market,4.8,3.8,5.9,21.5,64.0
-The Sleepy Potato,24.8,3.4,5.1,12.0,54.7
-The Spice House,10.8,5.0,9.4,19.6,55.2
-The Spindle,0.0,0.0,0.0,1.8,98.2
-The Spindle Kitchen,0.0,0.0,0.0,12.5,87.5
-The Square Pub,3.0,1.1,8.6,26.8,60.5
-The Steamhouse Lounge,1.7,2.3,6.4,19.2,70.4
-"The Sun Dial Restaurant, Bar & View",4.5,3.9,9.6,21.0,60.9
-The Tavern At Phipps,12.6,6.3,11.1,19.6,50.4
-The Third Space,0.0,0.0,0.0,0.0,100.0
-The Varsity,8.0,6.4,12.4,19.8,53.4
-The Vortex Bar & Grill,2.8,1.5,5.2,19.7,70.8
-The Warren City Club,3.6,2.6,6.1,16.8,70.9
-The White Bull,1.2,2.4,4.8,14.5,77.0
-The White House Restaurant,3.8,4.4,5.1,15.6,71.1
-The Wing Shack Atl,37.5,8.1,8.3,8.5,37.5
-Therapy Lounge,9.7,4.7,7.8,15.1,62.8
-There on Fifth,0.0,7.9,7.9,10.5,73.7
-Thinking Man Tavern,2.7,1.5,8.6,35.8,51.5
-This Is It! BBQ & Seafood Franchise (Smyrna),26.1,11.6,11.6,14.6,36.0
-Thrive,6.1,3.1,8.9,26.0,55.8
-Thumbs Up Diner,7.7,6.4,11.0,26.8,48.1
-Tiff's Treats Cookie Delivery,6.2,1.6,3.9,16.4,71.9
-Tiki Tango Hideaway Oasis,5.9,3.4,6.3,20.6,63.9
-Toast On Lenox,8.9,4.4,2.2,6.7,77.8
-Tokyo Grill,10.7,3.6,3.6,10.7,71.4
-Tomo Japanese Restaurant,3.4,2.6,5.7,16.1,72.3
-Top Spice Thai & Malaysian Cuisine,7.0,3.1,9.0,21.4,59.3
-Topgolf,4.2,2.3,6.1,23.0,64.4
-Touch,12.6,6.0,14.8,20.4,46.2
-Trader Vic's,7.1,5.3,9.8,20.5,57.3
-Traffik Kitchen and Cocktails,13.2,0.9,7.5,17.0,61.3
-Trap Dog Wings & Burgers,25.0,0.0,0.0,7.1,67.9
-Treehouse Restaurant and Pub,2.9,4.2,8.2,27.6,57.0
-Tribeca Restaurant,22.2,5.6,5.6,11.1,55.6
-Tropical Smoothie Cafe,16.7,4.4,6.8,12.0,60.2
-Truman Tavern,3.6,0.0,0.0,21.4,75.0
-Truva,4.2,1.6,7.6,18.2,68.5
-Truva - Virginia Highland,4.2,2.5,0.8,5.1,87.3
-Truva Turkish Kitchen,4.2,2.1,9.3,28.4,56.0
-Tuk Tuk Thai Food Loft,4.0,2.5,6.0,20.8,66.7
-Tupelo Honey,4.8,4.7,9.5,17.8,63.2
-Twain's Brewpub & Billiards,1.8,2.4,9.0,30.7,56.1
-Twelve Eighty,2.9,6.5,6.5,22.9,61.2
-Twisted Kitchen - Midtown,6.1,3.5,9.2,14.0,67.2
-Twisted Soul Kitchen & Bar,0.0,0.0,0.0,12.5,87.5
-Umi,6.5,1.5,3.3,12.7,76.1
-Uncle Julio's,9.1,6.7,12.3,26.1,45.8
-Unity Restaurant,2.4,0.9,4.6,13.1,79.0
-Universal Joint Decatur,3.7,3.2,9.4,26.2,57.5
-Uptop Atlanta Lounge and Nightlife,0.0,0.0,0.0,0.0,100.0
-Urban Wu,8.6,4.3,4.8,17.1,65.2
-Valenza,3.8,0.5,7.7,18.4,69.5
-Varasano's Pizzeria - Buckhead,0.6,0.6,0.4,3.4,94.9
-Varuni Napoli,4.1,1.3,3.9,15.6,75.1
-Velvet Taco,3.6,4.5,5.6,13.1,73.1
-Venkman's,1.3,1.8,4.4,23.3,69.2
-Victory Sandwich Bar,3.1,1.6,5.2,21.0,69.0
-Views Bar and Grill Atlanta,10.3,5.2,5.2,5.2,74.1
-Villa Italian Kitchen,27.8,5.6,11.1,16.7,38.9
-Village Coffee House,1.3,0.0,3.8,14.1,80.8
-Vinny's N.Y. Pizza & Grill - Ansley Mall,8.6,2.6,7.5,22.4,59.0
-Virgil's Gullah Kitchen & Bar,6.0,2.7,5.8,19.5,66.0
-Vision Restaurant & Lounge,15.5,3.9,11.2,14.0,55.4
-Volare Wine & Bistro,1.4,2.2,5.5,19.4,71.5
-W.K. Wings,25.0,6.8,0.0,11.4,56.8
-WNB Factory - Wings & Burger,9.4,3.1,11.2,20.8,55.5
-Wadada Healthy Market & Juice Bar,3.1,0.5,2.6,4.1,89.7
-Waffle House,10.8,4.9,11.7,22.7,50.0
-Wagaya - Emory Village,7.0,1.0,2.7,20.1,69.1
-Wagaya - Westside,2.0,1.2,5.4,18.4,73.0
-Wahoo! Grill,2.9,2.1,7.5,21.8,65.8
-Walter's Soul Food Cafe,10.3,4.8,9.9,20.5,54.5
-Watchman's,2.7,2.7,8.1,17.1,69.4
-We Suki Suki | A Global Grub Collective,4.5,0.8,3.6,9.8,81.3
-Wendy's,14.2,7.5,17.8,23.0,37.4
-West Egg Cafe,2.8,2.1,6.3,22.5,66.3
-Westside Pizza,0.0,0.0,0.0,33.3,66.7
-Wheelhouse Craft Pub and Kitchen,0.0,1.9,0.6,11.4,86.1
-Which Wich Superior Sandwiches,12.1,4.7,12.1,28.5,42.6
-Whiskey Bird,0.4,2.4,3.9,23.8,69.4
-Whiskey Blue,4.6,2.7,12.6,24.8,55.2
-White Oak Kitchen & Cocktails,5.1,3.2,8.6,26.2,57.0
-Wild Heaven West End Brewery & Gardens,3.6,1.0,4.1,17.0,74.2
-Willow Bar,0.0,0.0,12.5,0.0,87.5
-Willy's Mexicana Grill,2.7,2.7,6.8,37.8,50.0
-Wing House,31.6,5.3,5.3,7.9,50.0
-WingGo,0.0,0.0,0.0,0.0,100.0
-Wingnuts,10.0,2.7,8.5,24.2,54.5
-Wingnuts&Chopsticks,25.0,9.5,10.7,20.2,34.5
-Wings & Seafood,10.7,6.7,12.0,22.7,48.0
-Wings Cafe & Deli,9.0,4.7,6.6,12.3,67.5
-Wisteria,2.4,3.3,5.6,20.5,68.2
-Wnb factory cascade,7.9,3.7,10.7,26.0,51.6
-Wokdragon,22.9,6.2,6.2,8.3,56.2
-Wonderkid,4.0,4.6,8.6,18.5,64.2
-Woodward & Park,3.6,0.0,7.1,3.6,85.7
-Woody's CheeseSteaks,3.5,2.5,6.9,20.2,66.9
-Wyatt's Country BBQ,7.2,4.8,8.4,15.9,63.7
-X Midtown,15.8,6.0,12.5,23.9,41.8
-XPERIENCE SPORTS BAR & Lounge,5.3,2.6,5.3,13.2,73.7
-Yami Sushi,11.2,7.4,7.9,19.5,54.0
-Yami Yami,5.8,4.7,9.3,22.1,58.1
-Yoi Yoi,6.2,0.0,6.2,18.8,68.8
-Young Augustine's,1.9,3.4,9.6,28.9,56.2
-Your Pie Pizza,4.9,1.6,6.4,16.7,70.3
-Yum's Subs,4.8,4.0,13.6,24.8,52.8
-Yumbii @ Toco Hills,3.4,5.2,6.9,19.0,65.5
-Yumbii Food Truck,0.0,12.5,0.0,12.5,75.0
-Zari Lounge,13.6,6.1,12.1,12.1,56.1
-Zaxby’s,17.8,5.7,6.5,16.2,53.8
-Zena's BBQ and Seafood Joint,5.3,2.6,2.6,10.5,78.9
-Zesto - Buckhead,5.0,3.9,11.5,23.7,55.9
-Zesto - East Atlanta,7.6,4.2,12.8,24.9,50.5
-Ziba's Bistro Grant Park Best Kept Secret,0.9,1.2,4.0,16.5,77.4
-Zocalo Mexican Kitchen & Cantina,5.5,5.0,12.3,25.7,51.5
-Zoes Kitchen,4.7,5.7,5.2,22.7,61.6
-Zoës Kitchen,5.5,4.0,8.0,25.1,57.5
-Zubi's Taco Kitchen,6.2,0.0,0.0,4.7,89.1
-Zunzi’s,1.5,0.7,4.1,13.1,80.6
-bp,12.5,5.6,19.8,21.9,40.2
-cafe delight,10.7,0.0,7.1,17.9,64.3
-endive Publik house,0.0,0.0,2.1,9.8,88.1
-envegan,0.0,3.6,3.6,14.3,78.6
-gusto! Peachtree,4.1,1.4,4.9,14.8,74.9
-gusto! West Midtown,4.8,2.4,4.3,11.6,76.8
-iNatural Eats,7.0,1.8,3.5,8.8,78.9
-moonbowls (Healthy Korean Bowls- Forrest),11.1,0.0,22.2,0.0,66.7
-no. 246,1.0,1.8,4.6,17.3,75.4
-noodle,5.2,4.6,7.8,16.3,66.0
-smyrna crawfish boil,0.0,0.0,0.0,50.0,50.0
-sweetgreen,10.7,7.1,21.4,10.7,50.0
-the Woodall,1.3,3.8,5.1,3.8,85.9
-the window.atl,0.0,0.0,0.0,0.0,100.0
+restaurant_name,0.0,1.0,2.0,3.0,4.0,5.0
+"""Food That Pleases""",25.0,0.0,0.0,50.0,0.0,25.0
+101 Bagel Cafe,12.5,3.5,9.0,16.0,47.0,12.0
+1911 Biscuits & Burgers,3.3,1.6,6.5,0.0,10.6,78.0
+224 Cafe,25.0,0.0,0.0,4.2,50.0,20.8
+26 Thai Kitchen and Bar Midtown,2.1,1.6,2.1,7.5,38.5,48.1
+285 West Soul Food,9.5,6.3,16.3,33.3,29.2,5.4
+433 Bishop Event Venue,2.2,0.0,15.2,30.4,39.1,13.0
+5 Napkin Burger,25.0,0.0,50.0,0.0,0.0,25.0
+5th Street Tapas,6.2,0.0,0.0,0.0,56.2,37.5
+656 Sports Bar & Grille,13.3,4.5,16.7,29.6,28.3,7.6
+683 Midtown Bar and Bistro,25.0,0.0,0.0,0.0,25.0,50.0
+8ARM,8.2,5.5,16.9,38.3,28.0,3.1
+9 Mile Station,6.2,4.3,9.5,20.9,43.3,15.9
+A Town Wings,4.3,3.5,12.4,30.4,36.8,12.6
+A1 Soulfood,9.7,3.1,10.2,19.4,41.8,15.8
+ABC Chicken and Waffles-Nitro Coffee Counter,4.3,0.0,2.1,0.0,9.6,84.0
+AJ2 Fish and wings,4.3,2.2,6.5,4.3,50.0,32.6
+ATB Food Court,1.9,7.4,18.5,9.3,55.6,7.4
+ATL Wings,7.1,3.8,15.2,28.5,37.0,8.4
+ATLANTA DREAM WINGS DOWNTOWN,5.6,2.8,11.1,26.4,33.3,20.8
+AZIO Downtown,25.0,8.3,25.0,16.7,16.7,8.3
+Abol Cafe and Restaurant,8.6,2.7,9.2,20.5,43.2,15.7
+Acoustix Jazz Restaurant & Lounge,26.7,40.0,26.7,0.0,0.0,6.7
+Afrodish Restaurant,10.0,4.0,10.0,20.0,48.0,8.0
+Agave Restaurant,1.6,3.1,13.2,29.8,41.2,11.1
+Agency Socialtheque,8.0,3.2,10.6,22.3,45.7,10.1
+Ah-Ma's Taiwanese Kitchen,5.3,3.0,12.4,31.2,39.5,8.6
+Aladdin's Mediterranean Grill,5.6,1.5,12.2,36.7,41.8,2.0
+Ali Baba Mediterranean,6.7,3.0,11.1,19.9,34.7,24.6
+Allora,16.4,9.2,13.2,16.4,38.2,6.6
+Alma Cocina Buckhead,1.5,3.1,1.5,3.1,33.8,56.9
+Alma Cocina Downtown,2.3,2.8,11.4,23.2,46.0,14.2
+Ameer's Mediterranean Grill,5.3,3.6,14.7,27.8,33.8,14.8
+American Cut Steakhouse,5.9,2.9,6.6,25.9,56.6,2.2
+American Eclectic Burger,50.0,8.3,0.0,8.3,8.3,25.0
+American Wing & Deli,11.1,6.7,8.9,33.3,35.6,4.4
+American Wings & Seafood,4.1,2.2,18.3,27.2,36.9,11.2
+Anna's BBQ,4.5,2.8,12.6,30.9,36.7,12.6
+Annie's Thai Castle,5.7,5.7,22.1,29.3,27.9,9.3
+Antica Posta Restaurant,3.8,5.1,9.8,22.5,47.2,11.7
+Antico,2.2,2.6,10.7,34.0,44.5,6.0
+Apache XLR,5.2,5.3,14.8,34.1,32.5,8.1
+Applebee's Grill + Bar,16.8,10.2,18.2,24.4,24.3,6.1
+Apres Diem,2.6,4.2,11.7,27.1,46.4,8.0
+Apron,5.2,10.3,5.2,27.6,44.8,6.9
+Area 4 Restaurant,11.3,4.9,8.2,12.6,53.4,9.5
+Arepa Mía,5.0,3.2,11.7,18.5,45.0,16.7
+Argosy,2.4,3.0,15.5,38.5,38.1,2.6
+Aria,2.2,4.1,7.3,25.6,45.8,15.0
+Arnette's Chop Shop,3.1,0.8,3.3,10.0,63.8,19.0
+Athens Pizza,3.3,2.9,12.9,31.2,43.5,6.2
+Atkins Park Tavern,5.4,5.4,15.3,28.8,35.2,9.8
+Atlanta Bar and Grille,10.8,0.0,0.0,0.0,0.0,89.2
+Atlanta Bread Smyrna,7.0,4.6,18.6,34.6,31.9,3.3
+Atlanta Breakfast Club,3.6,1.8,7.9,26.5,47.3,12.9
+Atlanta Grill,2.7,0.0,10.8,21.6,43.2,21.6
+Atlanta Wings,5.2,3.2,10.0,25.5,48.6,7.6
+Atlanta's Best Wings,6.6,4.8,15.1,30.4,34.6,8.4
+Atlantic Grill,12.2,7.0,16.7,24.9,35.9,3.3
+Atlantic Noodles Restaurant,13.0,4.3,0.0,13.0,39.1,30.4
+Atlantis Restaurant & Lounge,22.1,8.8,18.3,22.1,21.0,7.7
+Atmosphere Restaurant,3.2,3.9,12.7,28.2,35.2,16.9
+Auntie Anne's,56.2,0.0,0.0,18.8,12.5,12.5
+Azule Restaurant and Lounge,12.1,6.1,6.1,0.0,12.1,63.6
+B-Side,6.2,3.1,7.7,4.6,60.0,18.5
+B51,16.4,6.4,21.4,23.6,29.6,2.6
+BBQ Cafe,4.3,0.0,13.0,8.7,52.2,21.7
+BEP! Vietnamese Cuisine,6.5,15.2,8.7,26.1,32.6,10.9
+Babette's Cafe,1.0,3.2,11.8,23.9,43.9,16.2
+Babs Midtown,3.2,4.5,10.2,32.0,39.0,11.0
+Bacchanalia,0.9,2.1,10.5,28.8,43.0,14.6
+Bakaris Plant-based pizza,10.6,5.6,15.9,24.9,29.0,14.0
+Baked Kitchen,6.7,0.0,6.7,6.7,0.0,80.0
+Baker Dude Bakery Cafe,7.2,2.2,0.7,3.6,61.9,24.5
+Baltimore Crab & Seafood,8.7,4.0,12.4,30.6,36.0,8.3
+Bangkok Thai Restaurant,5.8,4.8,10.9,21.1,47.6,9.9
+Banshee,0.8,1.2,3.1,15.7,70.9,8.3
+Bantam + Biddy,4.9,4.6,14.8,21.9,40.6,13.2
+Bantam Pub,2.3,3.7,16.5,31.4,37.4,8.8
+Bar Margot,2.7,2.1,7.1,28.2,47.5,12.5
+Bar Mercado,4.1,3.1,10.2,25.3,47.2,10.2
+Bar Vegan ATL,6.6,6.1,5.5,0.0,9.9,71.8
+Baraka Sharwarma Mediterenean,3.4,2.3,7.7,32.0,45.8,8.8
+Barbecue kitchen,3.4,0.0,10.3,0.0,10.3,75.9
+Bareburger,19.7,12.7,10.5,18.4,37.8,1.0
+Basil's Restaurant & Tapas Bar,4.1,3.7,10.8,22.7,40.9,17.8
+Batter Cookie Dough Buckhead,33.3,0.0,0.0,0.0,0.0,66.7
+Bayou'Q Atlanta,9.8,2.0,5.9,0.0,17.6,64.7
+Bazati,18.3,8.5,4.2,5.6,42.3,21.1
+"Beer Girl, Growlers & Bottleshop",2.3,0.6,6.9,42.0,34.5,13.8
+BeetleCat,2.8,2.0,9.4,26.5,42.2,17.1
+Bench Warmers Sports Grill,4.6,5.1,18.5,32.6,34.1,5.1
+Benihana,24.7,7.1,14.9,19.3,26.0,8.1
+Best End Brewing Company,1.3,2.6,2.6,4.6,42.5,46.4
+Bhojanic Food Truck,50.0,0.0,0.0,0.0,0.0,50.0
+Big Bang Pizza,9.1,7.0,8.5,14.9,49.9,10.5
+Big Daddy's Cafe,6.8,3.3,12.0,26.9,38.5,12.4
+Big Daddy's Kitchen,7.1,4.5,14.9,28.7,35.5,9.4
+Big Easy Grille,4.5,2.9,12.2,33.2,35.2,12.0
+Big Kahuna Atlanta,6.5,7.7,21.6,26.9,33.6,3.7
+Big Nick's Place,13.0,6.5,10.9,30.4,26.1,13.0
+Big Sky Buckhead,8.2,6.4,16.7,33.5,29.7,5.6
+Biltong Bar,1.7,5.0,4.2,10.8,58.3,20.0
+Bistro Niko,1.5,3.0,11.0,29.5,47.1,8.0
+Blackbird,9.0,4.9,7.4,10.7,67.2,0.8
+Blackstone Restaurant,16.7,16.7,0.0,33.3,16.7,16.7
+Blu Cantina,8.0,4.7,15.2,21.1,38.3,12.7
+Blu Cantina Camp Creek,9.8,4.2,9.1,11.9,32.2,32.9
+Blu Lagoon Bar and Bistro,13.1,3.7,8.0,16.9,43.4,14.9
+Blue Frog Cantina,50.0,0.0,0.0,0.0,0.0,50.0
+Blue Moon Pizza,3.4,3.3,13.6,28.8,39.0,11.9
+Blue Moon Pizza of Buckhead,4.7,2.8,12.3,27.1,34.0,19.0
+Bocado,4.0,4.5,18.7,30.5,36.7,5.7
+BoccaLupo,3.2,2.0,8.1,33.4,44.4,9.0
+Bojangles,12.8,9.5,11.8,13.3,34.6,18.0
+Bole Ethiopian Restaurant,6.0,0.9,9.5,21.5,46.7,15.4
+Bonefish Grill,4.5,2.4,11.9,23.8,45.3,12.0
+Bones Restaurant,3.3,2.2,6.3,27.8,47.8,12.5
+Boogalou Restaurant & Lounge,14.8,5.1,16.9,27.6,28.2,7.4
+Boone's,14.3,0.0,14.3,0.0,0.0,71.4
+Boston Market,3.4,2.9,16.3,33.4,36.4,7.7
+Botica,3.6,3.6,6.0,0.0,9.6,77.1
+Boucanes BBQ,16.0,0.0,8.0,0.0,8.0,68.0
+Boudreaux's On The Roll,8.1,9.7,27.4,50.0,1.6,3.2
+Bowlero Atlantic Station,7.5,2.2,10.4,0.0,18.7,61.2
+Boxcar at Hop City West End,3.3,3.1,6.5,16.4,56.6,14.1
+Brack's Kitchen,8.8,0.0,2.9,0.0,38.2,50.0
+Brake Pad,3.7,2.9,16.7,36.3,33.9,6.5
+Braves All Star Grill - Downtown,10.2,5.1,13.3,24.5,37.1,9.8
+Brezza Cucina,9.4,6.8,14.2,22.7,36.2,10.7
+BrickStone Cafe & Restaurant,9.6,2.7,13.7,21.9,39.7,12.3
+Brklyn Kitchen & Lounge (Hookah Lounge),16.1,4.3,5.6,9.3,50.9,13.7
+Brown Bag Seafood Co.,3.8,1.2,2.5,0.0,15.0,77.5
+Buena Vida Tapas & Sol,2.4,1.5,4.9,5.8,61.7,23.8
+Buffalo China,14.2,3.3,16.4,26.2,34.5,5.5
+Buffalo Wild Wings,26.1,7.9,14.5,22.0,24.7,4.9
+Buffalo Wild Wings 'GO',26.7,6.7,0.0,0.0,13.3,53.3
+Bullpen Rib House,12.2,5.1,20.7,32.5,24.3,5.2
+Burger Joy,30.6,4.7,16.5,21.2,24.7,2.4
+Burger King,22.1,9.2,19.8,22.0,22.2,4.8
+BurgerFi,14.2,5.5,5.0,15.1,56.0,4.1
+By George,6.1,3.0,6.1,3.0,78.8,3.0
+CEG Bakery,7.9,2.6,5.3,21.1,44.7,18.4
+CHE BUTTER JONEZ,5.3,0.0,0.0,2.6,47.4,44.7
+CJ Buffalo,8.6,3.7,32.1,32.1,16.0,7.4
+CO,5.9,5.4,8.3,25.1,38.2,17.1
+CRU Hookah Lounge,2.5,0.8,8.9,38.6,40.7,8.5
+CZ SMOKEZ BBQ,6.4,1.8,13.8,23.9,28.4,25.7
+Cafe 200,25.0,0.0,0.0,0.0,62.5,12.5
+Cafe 458,4.7,1.2,3.5,12.8,45.3,32.6
+Cafe Alsace,0.7,2.7,8.1,23.9,55.9,8.8
+Cafe At Pharr,9.4,5.5,15.6,28.1,29.7,11.7
+Cafe Bistro,11.4,8.6,14.3,20.0,28.6,17.1
+Cafe Circa,11.0,10.1,17.2,25.1,31.2,5.3
+Cafe Intermezzo,12.5,12.5,25.0,12.5,12.5,25.0
+Cafe Kulture,2.3,0.0,2.3,9.1,2.3,84.1
+Cafe Shekel,10.1,5.9,8.4,24.4,40.3,10.9
+Cafe Social House,6.9,3.3,4.6,11.2,55.1,18.8
+Café Aquaria,69.7,9.1,6.1,0.0,12.1,3.0
+Café Lapin,5.3,3.3,8.7,24.0,46.7,12.0
+Café Lily,3.8,1.4,13.5,33.6,41.7,5.9
+California Mart,14.3,0.0,28.6,0.0,28.6,28.6
+Callie's Hot Little Biscuit,7.1,7.1,15.3,30.5,33.4,6.6
+Cameli's Pizza,4.4,4.0,15.9,31.6,40.2,3.9
+Canopy Court,50.0,0.0,0.0,0.0,0.0,50.0
+Capital City Club,2.4,4.8,26.5,38.6,25.3,2.4
+Carolyn's Gourmet Cafe,3.8,5.1,25.3,27.8,34.2,3.8
+Carrabba's Italian Grill,7.2,4.2,13.7,25.4,37.5,11.9
+Carroll Street Cafe,2.0,2.8,14.8,34.3,36.4,9.8
+Carver's Country Kitchen,33.3,0.0,0.0,0.0,0.0,66.7
+Catch 12,8.0,5.9,13.9,30.0,35.9,6.2
+Chai Peking Chinese Restaurant,4.2,9.4,10.4,17.7,43.8,14.6
+Chairs Upstairs Bar and Restaurant,4.0,2.4,12.8,29.0,38.1,13.8
+Champs Chicken,8.3,8.3,0.0,33.3,0.0,50.0
+Chanterelle's,7.7,7.7,46.2,23.1,7.7,7.7
+Char Korean Bar & Grill,6.1,5.6,12.6,28.4,36.8,10.5
+Chattahoochee Food Works,7.2,0.0,7.2,26.1,0.0,59.4
+"CheeZies Pizza Atlanta, GA",14.3,28.6,42.9,0.0,0.0,14.3
+Cheetah Lounge/ Alluvia Restaurant,22.7,6.4,22.7,22.1,19.8,6.4
+Chef Chen,11.5,4.7,12.5,29.2,36.5,5.7
+Chef’d Up Atl,20.4,11.1,9.3,0.0,14.8,44.4
+Chic Restaurant & Lounge,4.8,0.0,9.5,0.0,28.6,57.1
+Chic-A-Loes,4.9,3.4,16.2,30.5,38.0,7.0
+Chicago Pizza & Sports Grille,3.3,3.3,12.4,28.9,37.6,14.5
+Chick-a-Biddy,15.2,8.4,19.5,17.6,28.2,11.1
+Chick-fil-A,9.4,3.6,13.9,26.6,37.9,8.6
+Chili's Bar & Grill,19.7,12.1,15.9,0.0,19.7,32.6
+Chili's Grill & Bar,14.2,8.3,16.9,22.9,31.5,6.1
+Chin Chin at Howell Mill,4.7,8.0,18.0,25.7,34.8,8.9
+China Express,14.0,5.8,14.0,30.6,28.9,6.6
+China Moon Restaurant,17.6,5.6,12.8,26.4,28.0,9.6
+China Taste,14.8,7.7,9.2,33.1,24.6,10.6
+Chops & Lobster Bar,1.6,2.9,9.5,28.3,44.2,13.6
+Chopt Creative Salad Co.,13.8,5.1,9.7,10.3,49.2,11.8
+Chris' Caribbean Bistro,4.5,3.5,12.9,39.0,32.9,7.1
+Cinco Mexican Cantina,6.7,8.1,14.3,28.6,33.5,8.8
+CinéBistro,4.2,5.1,14.5,25.6,47.5,3.1
+Circle Poke,1.8,0.6,6.1,23.6,56.4,11.5
+Cirque Blu Seafood House,39.2,6.4,7.6,0.0,5.3,41.5
+Cirque Daiquiri Bar & Grill,18.4,5.8,16.0,22.8,25.9,11.2
+City Garden,57.1,0.0,28.6,0.0,0.0,14.3
+City View Cafe,16.7,0.0,16.7,50.0,0.0,16.7
+City Winery,17.4,11.9,15.0,19.7,34.1,1.9
+Clean Juice,5.1,5.1,1.7,10.2,42.4,35.6
+Clean Start Cleansing Atlanta,3.0,3.0,4.5,16.4,43.3,29.9
+Clifton Cafe,25.0,0.0,12.5,0.0,50.0,12.5
+Cold Beer,5.3,9.7,2.7,11.5,54.9,15.9
+Cold Brew Bar at Atlanta Dairies,0.5,1.4,4.1,10.1,74.7,9.2
+Community Q BBQ,2.2,3.2,13.2,40.3,36.2,4.9
+Condesa Coffee,2.8,2.2,19.3,36.2,35.0,4.6
+Continent Restaurant & Cigar Lounge,6.8,0.0,4.5,0.0,6.8,81.8
+Cook Out,5.8,4.6,18.9,33.3,32.7,4.7
+Cooks & Soldiers,1.3,2.2,7.9,25.0,54.1,9.4
+Copeland's of New Orleans,5.1,3.4,13.2,29.4,38.9,10.1
+Copper Cove Bistro,10.2,5.6,17.3,22.4,23.5,20.9
+Coq et Oeufs,25.0,0.0,0.0,0.0,50.0,25.0
+Cory’s spot,7.1,0.0,0.0,7.1,14.3,71.4
+Courthouse Cafe,6.2,6.2,0.0,6.2,40.6,40.6
+Cousin's Maine Lobster,11.2,8.3,6.8,14.1,34.1,25.4
+Cox Hall,1.5,4.9,22.1,36.8,31.9,2.9
+Crave Restaurant Atlanta,19.6,10.5,7.0,4.2,33.6,25.2
+Crawfish Shack Seafood,9.4,7.4,18.9,27.6,30.2,6.6
+"Crazy ATLanta Travel BAR, Street Food & Event Venue",6.6,3.7,13.3,32.6,34.6,9.3
+Crispina Ristorante & Pizzeria,5.0,4.6,9.4,27.6,41.5,12.0
+Curfew ATL Restaurant & Lounge,12.5,12.5,12.5,0.0,0.0,62.5
+Cuts Steakhouse,6.7,3.7,11.8,26.0,39.0,12.9
+D&D Barbeque & Ribs,5.6,4.0,17.4,29.4,34.5,9.1
+DRAGON EXPRESS,22.0,12.2,19.5,11.0,24.4,11.0
+Daddy D'z BBQ Joynt,9.9,6.1,16.9,30.3,30.2,6.7
+Dakota Blue,5.9,5.9,11.8,11.8,41.2,23.5
+Dante's Down the Hatch,23.5,11.8,47.1,11.8,0.0,5.9
+Debbie's Convenience Store & Soul Food,7.7,0.0,0.0,7.7,23.1,61.5
+Dee's Cafe,6.2,0.0,12.5,12.5,56.2,12.5
+Deja Vu Sports Bar & Lounge,8.1,4.8,11.3,9.7,24.2,41.9
+Del Taco,7.2,5.0,16.8,30.0,34.3,6.7
+Delbar Middle Eastern,2.9,1.3,2.1,1.3,19.7,72.7
+Delia's Chicken Sausage Stand,1.5,2.5,14.4,37.4,43.6,0.7
+Der Biergarten,3.1,2.4,13.3,33.3,43.1,4.9
+Desi Spice Indian Cuisine,8.4,7.8,9.0,28.3,33.9,12.7
+Desta Ethiopian Kitchen Emory Point,5.8,0.0,4.9,9.7,75.7,3.9
+Dipped N Butter,19.4,2.8,8.3,11.1,27.8,30.6
+Dire Grill,8.2,1.4,5.5,31.5,52.1,1.4
+Divan Restaurant & Hookah Lounge,4.1,3.1,13.4,29.3,39.1,11.0
+Dixie Q,1.4,3.5,13.0,23.9,45.3,13.0
+Doc Green's Gourmet Salad And Sandwich Bar,12.8,4.4,14.4,21.6,33.2,13.6
+Donnie's Country Cookin',10.9,5.0,17.9,26.9,31.3,8.0
+Double Zero,3.2,2.7,14.7,32.2,38.6,8.6
+Downwind Restaurant and Lounge,1.1,3.2,9.5,26.8,48.0,11.4
+Dr. Bombay's Underwater Tea Party,4.6,2.9,13.0,27.6,49.4,2.4
+Dragon Palace Restaurant,40.6,10.9,15.6,9.4,14.1,9.4
+DrinkShop,20.0,20.0,40.0,0.0,0.0,20.0
+Dua Hapeville,6.3,3.1,5.1,19.2,49.0,17.3
+Dua Vietnamese Noodle Soup,5.1,3.1,13.9,38.6,37.6,1.8
+ESCORPIÓN,4.0,3.2,20.1,33.5,35.5,3.7
+East Wave Asian Fusion,4.2,3.1,24.0,40.6,26.0,2.1
+EatMyTaco,50.0,16.7,0.0,0.0,0.0,33.3
+Eats,2.9,3.9,13.5,32.0,42.7,5.0
+Ecco Midtown,2.3,3.4,12.5,38.0,39.0,4.8
+Eclipse di Luna,1.7,2.0,10.9,28.3,48.2,8.9
+Eddie's Attic,2.0,2.2,10.0,34.7,50.9,0.2
+Edgar's Proof & Provision,7.0,4.1,21.1,24.0,42.1,1.8
+Einstein's,5.2,6.3,17.8,35.8,31.9,3.1
+El Azteca,4.6,3.4,14.4,28.7,37.4,11.5
+El Potro Mexican Restaurant,4.2,3.4,12.9,31.2,37.1,11.2
+El Vinedo Local,4.0,0.0,0.0,0.0,32.0,64.0
+Elbow Room,6.1,3.5,13.6,23.5,40.5,12.8
+Eleventh Street Pub,1.6,3.9,14.4,26.9,44.0,9.3
+Elleven45 Lounge,15.8,6.9,20.6,29.5,20.4,6.9
+Elmyr,6.2,3.6,16.4,28.1,41.5,4.2
+Elmyriachi,3.2,2.1,16.8,30.8,40.6,6.5
+Embilta Cafe & Restaurant,1.7,0.4,4.6,36.7,49.2,7.5
+Empire Sports Bar & Grill,13.3,6.7,6.7,13.3,46.7,13.3
+Empire State South,3.2,5.1,19.7,32.2,36.1,3.8
+Endive,1.8,12.5,26.8,21.4,25.0,12.5
+Esco Seafood,17.6,10.8,17.6,0.0,12.7,41.2
+Evangadi Restaurant Lounge,4.0,5.1,20.2,29.3,33.3,8.1
+Everythang Nola,1.2,0.0,1.2,8.1,65.9,23.7
+Extreme Teriyaki Grill Express,9.9,6.1,13.0,27.3,36.5,7.2
+FIGO Pasta Food Truck - Edgewood,7.8,7.4,17.8,27.0,37.0,3.1
+FIGO Pasta Vinings,8.1,6.3,18.3,32.9,30.9,3.5
+FINA at Wild Heaven,15.4,30.8,7.7,0.0,23.1,23.1
+Fado Irish Pub Midtown Atlanta,2.6,2.1,18.0,35.7,35.0,6.7
+Fanplex,50.0,0.0,0.0,25.0,0.0,25.0
+Farm Burger Buckhead,3.1,4.1,17.3,33.9,38.3,3.4
+Farm Burger Midtown Atlanta,2.4,2.9,10.1,15.5,65.2,3.9
+Farm to Ladle,16.3,10.2,12.2,24.5,30.6,6.1
+Fellini's Pizza,2.5,2.2,12.0,33.4,41.6,8.3
+Ferst Place,16.7,0.0,33.3,16.7,16.7,16.7
+Fia Restaurant,1.7,0.0,0.0,3.3,45.0,50.0
+Field Day,1.8,3.6,3.6,27.3,40.0,23.6
+Fin & Feathers,6.1,3.2,6.4,10.9,40.0,33.3
+Fire Hen,2.9,0.0,0.0,2.9,0.0,94.1
+Firewall Food Stop,4.1,0.0,0.0,2.7,62.2,31.1
+First Choice Cafe,6.0,3.0,1.5,10.4,61.2,17.9
+First Watch,6.0,4.3,12.4,25.1,37.5,14.7
+Fish Bowl Poke,4.3,1.4,5.0,16.5,63.3,9.4
+Five Guys,4.9,3.3,14.0,30.0,40.1,7.6
+Flower Child,5.1,0.4,3.6,10.5,56.5,23.9
+Flying Biscuit Cafe,4.2,3.9,13.0,23.8,43.6,11.5
+Flying Biscuit Cafe - Brookhaven,5.0,4.2,15.2,27.7,42.1,5.8
+Flying Biscuit Cafe - Howell Mill Village,3.4,3.9,14.5,32.3,38.0,8.0
+Flying Biscuit Café - Candler Park,3.7,3.5,14.2,35.4,37.3,5.9
+Flying Biscuit Café - Midtown,5.2,6.0,15.4,30.2,37.2,6.1
+Folk Art Restaurant Decatur,3.5,0.8,6.6,9.3,43.8,36.0
+Fontaine's Oyster House,3.5,4.7,12.6,32.5,36.6,10.1
+Food Terminal,1.6,1.6,4.9,12.6,50.6,28.7
+Fortune Cookie Restaurant,8.1,8.4,13.6,23.8,37.7,8.4
+Fox Bros. Bar-B-Q,2.1,2.1,11.4,33.7,42.8,7.9
+Fox Bros. Bar-B-Q Westside,16.7,0.0,0.0,0.0,16.7,66.7
+Foxtrot Liquor Bar,5.2,3.7,11.6,32.4,37.0,10.1
+Foxx Original Jamaican Restaurant,10.9,5.5,13.5,29.6,32.5,8.0
+Fresh 4 U,2.0,3.0,11.9,33.7,38.6,10.9
+Fresh To Order - CNN Center,19.3,5.3,15.8,24.6,31.6,3.5
+Fresh To Order - Decatur,2.5,2.7,15.5,35.2,38.4,5.7
+Fresh To Order - Midtown,3.4,2.9,17.5,36.0,35.4,4.9
+Fried Corn Evrythang,12.5,12.5,62.5,0.0,0.0,12.5
+Front Page News -Permanently Closed,5.4,5.2,16.2,29.0,42.0,2.3
+Frost Bistro,22.0,10.1,9.8,7.2,29.4,21.4
+G's Midtown,5.3,0.6,18.9,26.0,45.0,4.1
+Garden Parc Brunch & Events,2.5,1.3,4.5,4.5,38.2,49.0
+Gato,4.2,3.4,15.2,29.1,45.1,3.0
+Georgia Beer Garden,2.0,1.1,10.5,33.6,49.0,3.7
+Georgia Boy,2.7,2.7,0.0,5.3,73.3,16.0
+Get Fruity Cafe,11.7,5.1,6.6,24.8,35.8,16.1
+Gibney's Pub,4.5,2.8,17.7,32.9,39.7,2.4
+Gino's NY Pizza Bar,8.4,3.4,12.6,28.2,36.6,10.9
+Ginya Izakaya,2.9,2.4,10.3,34.4,43.1,6.9
+Girgiro Restorant,2.9,17.6,8.8,23.5,35.3,11.8
+Girl Diver Atlanta,6.3,3.8,10.1,0.0,12.7,67.1
+Gladys Knight's Signature Chicken & Waffles,43.5,17.1,21.8,15.3,1.2,1.2
+Glenn's Kitchen,2.4,4.2,13.1,30.4,46.4,3.6
+Gocha's Breakfast Bar,9.2,4.7,5.7,11.2,48.6,20.6
+Goldbergs Fine Foods - Roswell,6.0,5.3,11.7,29.9,40.2,6.8
+Goldbergs Fine Foods - Toco Hills,6.8,5.2,14.2,24.7,39.7,9.3
+Goldbergs Fine Foods - West Paces,3.1,6.3,11.5,29.7,44.9,4.5
+Golden Eagle,3.8,3.2,8.7,35.3,44.2,4.9
+Golden Vibes Café,50.0,0.0,0.0,0.0,0.0,50.0
+Gotham City Eatery,5.9,23.5,35.3,0.0,23.5,11.8
+Graffiti Atlanta,8.3,0.0,0.0,0.0,4.2,87.5
+Grana,2.5,3.3,7.2,4.0,31.9,51.1
+Grand Champion BBQ,10.8,8.1,2.7,0.0,16.2,62.2
+Grand Champion BBQ (Smyrna),14.3,0.0,0.0,42.9,0.0,42.9
+Grand Lux Cafe,9.0,4.2,9.5,22.4,51.4,3.7
+Grecian Gyro,6.9,0.7,2.8,7.6,55.2,26.9
+Green Soma Vegan Cafe,2.8,4.5,3.4,13.6,60.5,15.3
+Greenbriar Discount Mall,4.1,4.2,19.9,25.6,34.9,11.4
+Grindhouse Killer Burgers,1.9,2.2,11.6,33.2,42.7,8.3
+Grips Good Eats & Sweets,9.8,5.2,4.0,9.8,43.9,27.2
+Grub Burger Bar,3.4,3.3,15.2,30.9,42.2,5.1
+Grub Fresh Bowls & Wraps,11.5,7.7,5.8,1.9,28.8,44.2
+Grub Truck Stop,12.5,0.0,0.0,0.0,0.0,87.5
+Gullwing Club at Mercedes-Benz Stadium,14.3,0.0,0.0,14.3,28.6,42.9
+Gunshow,2.8,3.4,11.6,27.0,46.0,9.3
+Gus chicken,50.0,0.0,0.0,0.0,0.0,50.0
+Gus’s World Famous Fried Chicken,6.8,4.1,11.7,25.2,45.2,7.0
+Guthrie's,6.1,3.7,9.8,1.2,35.4,43.9
+Gyro Bros,11.4,4.5,11.4,31.8,35.2,5.7
+Gyu-kaku Japanese BBQ,9.3,4.1,5.0,16.0,52.2,13.2
+HOKI Japanese Restaurant,5.9,2.2,14.1,31.4,35.1,11.4
+Habitat Kitchen & Bar,16.4,3.3,3.3,0.0,6.6,70.5
+"Hal's ""The Steakhouse""",3.6,2.9,8.2,20.0,46.3,19.0
+Halal American Deli,0.7,1.4,0.7,1.4,61.6,34.2
+Hambone's BBQ,25.0,37.5,12.5,12.5,0.0,12.5
+Hans Express,6.1,4.1,18.0,29.9,32.4,9.4
+Harold's Chicken & Ice Bar,7.6,4.4,16.0,32.8,32.0,7.3
+"Hattie B's Hot Chicken - Atlanta, GA",2.5,2.3,5.8,15.0,60.9,13.4
+Hattie Marie's Texas Style BBQ & Cajun Kitchen,9.7,6.8,14.9,21.3,39.7,7.6
+Haven Restaurant and Bar,2.7,1.3,14.3,28.7,40.0,13.0
+Hawkers Asian Street Food,10.1,6.7,8.7,11.3,39.1,24.1
+Healthfull Essence,6.1,2.7,11.8,31.6,40.1,7.6
+Helen's Hot Chicken,9.8,4.9,7.4,8.2,45.9,23.8
+Henri's Bakery & Deli,4.4,3.6,14.5,30.0,37.9,9.6
+Henry's Midtown Tavern,7.5,6.1,17.5,29.8,32.4,6.7
+High Velocity,21.9,11.7,19.7,22.6,20.4,3.6
+Highland Bakery Downtown GSU,5.1,4.2,25.4,33.1,28.8,3.4
+Highland Bakery Midtown,8.2,7.6,18.0,32.9,29.9,3.4
+Highland Bistro,1.5,0.0,1.5,0.0,0.0,97.1
+HippoHopp,4.8,4.0,16.8,30.5,40.2,3.7
+Holy Taco,5.9,6.0,18.7,32.9,32.2,4.2
+Home grown GA Restaurant,1.3,1.8,9.3,35.1,45.3,7.3
+Honey Bubble,4.4,4.5,17.6,33.7,31.6,8.2
+Hong Kong City,9.6,2.4,30.1,30.1,21.7,6.0
+Hot Dog Pete's,4.3,2.5,4.9,5.5,36.8,46.0
+Houston's,4.7,2.7,10.5,26.8,43.7,11.6
+Hsu's Gourmet,4.3,4.5,17.9,33.4,35.9,4.1
+Hudson Grille,13.4,8.7,20.2,27.5,23.5,6.7
+Hudson’s Grille,33.3,0.0,0.0,0.0,33.3,33.3
+Hunan Dragon III,8.7,8.7,4.3,4.3,56.5,17.4
+Häagen-Dazs,3.1,1.0,14.3,29.6,50.0,2.0
+IHOP,11.0,6.0,17.2,29.2,29.8,6.8
+Il Localino,4.3,1.9,6.8,20.7,54.1,12.2
+Infinity Restaurant & Lounge LLC,4.6,3.8,14.6,40.7,31.0,5.4
+Irby's Tavern,4.8,4.8,6.2,20.0,51.0,13.1
+Iron Hill Brewery & Restaurant,8.9,2.2,7.8,0.0,8.9,72.2
+Iron Skillet Restaurant,17.2,7.7,15.4,23.9,32.8,3.0
+Island Vibes Caribbean Grill,4.5,2.2,6.7,11.6,54.5,20.5
+J & J Fish & Chicken,3.6,1.9,13.3,34.1,37.6,9.4
+J. Buffalo Wings,14.6,7.4,14.0,20.9,31.2,11.7
+J. Christopher's,6.8,2.1,16.4,23.3,42.5,8.9
+J.R. Crickets on Main St,14.6,5.7,10.5,19.0,39.3,10.9
+JCT. Kitchen & Bar,2.3,3.7,11.5,29.3,46.7,6.6
+JINYA Ramen Bar - Buckhead,2.1,0.9,4.6,20.5,59.8,12.1
+JJ Fish & Chicken,5.7,3.3,12.8,26.5,42.5,9.1
+JJ's Country Cooking,7.9,5.0,18.8,28.3,34.2,5.8
+Jack's New Yorker Deli,3.5,6.5,19.0,27.5,34.0,9.5
+Jack's Pizza & Wings,5.0,6.3,13.7,25.9,40.2,9.0
+Jai Ho - Indian Kitchen at Krog Street Market,2.4,4.9,2.4,0.0,34.1,56.1
+Jalisco Restaurant,9.3,3.2,13.9,24.6,38.6,10.4
+Jamba,5.2,2.6,3.9,9.1,51.9,27.3
+Jamba Chastain Square,8.3,0.0,8.3,20.8,41.7,20.8
+Jamba Madison Yards,9.1,4.5,4.5,0.0,50.0,31.8
+Jamba Turner Food Market,20.0,0.0,20.0,0.0,40.0,20.0
+Jamrock Jerk Center,7.8,6.0,16.7,28.6,33.3,7.6
+Janet's Kitchen Atlanta (Carryout/Dine in),8.5,4.9,8.5,12.2,56.1,9.8
+Jason's Deli,4.8,4.0,16.3,31.2,38.6,5.2
+Java Jive,3.1,4.7,11.4,31.9,39.0,9.8
+Jefe's Tacos & Tequila,8.1,9.7,4.8,14.5,30.6,32.3
+JenChan's,1.9,0.0,7.4,3.7,70.4,16.7
+Jet's Pizza,6.1,8.9,14.0,23.4,35.5,12.1
+Jim 'N Nick's Bar-B-Q,5.0,4.2,15.7,32.3,35.1,7.7
+Joe's On Juniper,7.2,7.2,22.6,37.9,23.6,1.4
+Joella's Hot Chicken,17.7,9.4,7.0,8.2,26.6,31.0
+Johnny Rockets,10.3,3.7,11.0,24.3,40.0,10.7
+Josephine Lounge,17.2,6.9,17.4,24.8,25.5,8.2
+Joy Cafe,5.6,3.2,8.5,25.0,42.7,15.0
+Joystick Gamebar,1.4,3.1,18.8,39.4,36.4,0.9
+Ju-c Bar,33.3,37.5,12.5,4.2,4.2,8.3
+Junior's Pizza,6.0,3.6,6.5,10.1,57.7,16.1
+Just Around the Corner,1.8,4.1,13.6,26.7,45.7,8.1
+K BBQ Taco,1.6,1.1,14.2,42.1,34.2,6.8
+KP Soul Food LLC,14.3,0.0,28.6,0.0,28.6,28.6
+KR SteakBar,3.4,1.2,9.9,31.1,40.1,14.3
+Kale Me Crazy Vinings | Health Food Restaurant,8.1,2.7,8.1,8.1,45.9,27.0
+Kale Me Crazy | Health Food Cafe Brookhaven Atlanta,9.9,3.6,8.1,44.1,27.0,7.2
+Kale Me Crazy | Health Food Cafe Inman Park Atlanta,5.5,6.2,19.9,35.6,25.3,7.5
+Kale Me Crazy | Health Food Cafe Midtown Atlanta,7.9,7.3,9.8,32.9,32.9,9.1
+Kale Me Crazy | Health Food Cafe Morningside/Highlands Atlanta,4.3,2.1,4.3,51.1,29.8,8.5
+Kale Me Crazy | Health Food Restaurant Grant Park Atlanta,8.5,9.9,4.2,21.1,45.1,11.3
+Kale Me Crazy | Health Food Restaurant Smyrna,16.2,6.8,9.5,8.1,39.2,20.3
+Kale Me Crazy | Health Food Restaurant Toco Hills Atlanta,4.0,4.0,8.0,4.0,56.0,24.0
+Kaleidoscope Bistro & Pub,2.8,3.9,17.3,37.7,33.8,4.6
+Kelz Kitchen,16.8,4.9,12.0,26.2,34.1,6.1
+Ken's Corner Grill,4.7,3.8,13.7,35.7,36.2,5.8
+Kenley's Catering And Restaurant,7.8,3.1,10.2,16.4,55.5,7.0
+Kevin Rathbun Steak,2.1,3.5,9.3,30.7,43.9,10.5
+Kings Cornbeef & Deli,2.5,0.0,2.5,0.0,10.0,85.0
+Kirkyard Public House,3.5,3.0,21.4,31.7,37.1,3.3
+Kiss Ultra Lounge,12.3,1.9,9.4,12.3,47.2,17.0
+Kodaks kitchen,16.7,0.0,0.0,0.0,16.7,66.7
+Kong's Kitchen,34.5,6.5,2.2,4.3,40.3,12.2
+Krab Queenz,14.0,8.0,8.5,9.4,39.6,20.5
+Krystal,18.4,8.1,20.9,21.7,23.8,7.0
+Kwan's Deli and Korean Kitchen,2.7,2.9,15.9,29.2,42.9,6.3
+Kyma,3.7,3.7,11.3,28.8,40.0,12.5
+L T's Wings,6.8,8.7,25.6,25.1,25.1,8.7
+LAS DELICIAS SUPERMERCADO,6.3,1.6,14.3,27.0,34.9,15.9
+LEON's Full Service,1.4,2.3,12.0,32.1,46.0,6.2
+LT New Orleans Seafood Market,8.9,4.0,11.3,32.3,38.7,4.8
+La Confianza,7.9,2.6,5.3,15.8,50.0,18.4
+La Costenita Taqueria & Wings,2.2,0.0,1.1,0.0,94.5,2.2
+La Costilla Grill Atlanta,12.3,3.2,6.7,20.5,49.3,7.9
+La Fonda Latina,2.7,3.4,15.4,35.1,36.3,7.1
+La Grotta Ristorante,1.6,3.6,5.5,23.2,48.7,17.4
+La Hacienda,8.3,3.3,15.3,28.7,33.4,11.0
+La Parrilla Mexican Restaurant,3.6,4.4,11.9,27.0,42.1,10.9
+Ladybird Grove & Mess Hall,3.0,2.2,13.6,35.4,41.8,4.0
+Lake & Oak,3.3,1.3,3.3,3.3,19.9,68.9
+Lakewood Diner,4.6,3.7,19.6,36.1,28.2,7.7
+Landmark Diner,5.1,9.0,15.3,24.2,37.5,8.8
+Landmark Diner - Downtown,10.5,7.8,17.7,27.3,30.5,6.2
+Las Brasas,7.3,3.1,11.9,30.4,37.9,9.4
+Lazy Betty,3.7,0.0,1.0,4.2,64.9,26.2
+Lazy Llama Cantina,22.2,4.0,8.1,5.1,26.3,34.3
+Le Fat,6.3,3.7,17.6,30.3,35.2,6.9
+League Tavern,18.9,9.5,8.4,10.5,33.7,18.9
+Legends Restaurant & Lounge,50.0,0.0,0.0,0.0,0.0,50.0
+Lenox Parking Food Center,9.1,9.1,4.5,4.5,45.5,27.3
+Levy at the Georgia World Congress Center,21.4,0.0,7.1,21.4,35.7,14.3
+Lickety Split Southern Kitchen & Bar,8.8,3.7,5.1,11.7,49.4,21.2
+Limerick Junction Pub,3.4,6.1,12.2,25.2,46.3,6.8
+Lingering Shade Social Club,11.6,4.1,14.0,27.3,33.9,9.1
+"Lips Drag Queen Show Palace, Restaurant & Bar",2.6,3.5,11.1,39.7,40.7,2.4
+Little Bear,1.2,0.0,0.0,0.0,65.4,33.3
+Little Caesars Pizza,10.8,4.1,16.9,33.3,30.8,4.1
+Little Five Points Pizza,4.9,3.8,14.0,33.4,37.0,6.9
+Little Lagos,12.0,4.9,9.2,33.7,35.9,4.3
+Little Rey,3.4,3.0,6.4,14.4,53.3,19.6
+Little Trouble,3.4,3.2,12.4,31.4,42.8,6.8
+Livingston,16.5,9.6,14.8,32.2,25.2,1.7
+Loca Luna,6.2,5.2,13.5,24.5,43.9,6.8
+Local Green Atlanta,3.2,1.0,7.6,8.0,63.7,16.6
+Local Three Kitchen & Bar,1.2,3.2,13.0,33.6,44.5,4.4
+Los Bravos Mexican Restaurant,3.6,3.9,15.2,31.9,37.1,8.3
+Lov'n It Live,3.7,3.1,8.6,45.2,35.1,4.3
+Lovies BBQ,3.7,4.7,12.9,29.4,47.3,2.1
+LowCountry Steak,2.6,7.9,9.2,0.0,11.8,68.4
+Lucky China 8 Chinese Restaurant,50.5,8.1,10.8,7.2,13.5,9.9
+Lucky's,2.0,2.3,9.7,24.0,54.3,7.7
+Lumen - Lobby Bar,7.9,7.9,2.6,23.7,31.6,26.3
+Lunch Box,18.4,8.7,25.2,22.3,22.3,2.9
+Lunch on Main Street,2.6,2.0,11.6,29.8,49.7,4.3
+Lyfe ATL,9.3,2.3,9.3,5.8,23.3,50.0
+Lyla Lila,3.2,2.2,1.1,5.4,45.2,43.0
+M&M’s Comfort Zone,12.5,0.0,0.0,0.0,0.0,87.5
+MA's Hot Takes,42.9,0.0,42.9,0.0,0.0,14.3
+MF Buckhead,16.7,16.7,16.7,16.7,16.7,16.7
+MSR My Sisters Room,9.2,5.7,11.4,27.6,37.3,8.8
+MTH Pizza,6.7,4.8,1.9,4.8,61.9,20.0
+Mac McGee Irish Pub,1.0,5.0,13.6,34.4,43.7,2.3
+Macho Nacho,10.4,0.0,20.8,27.3,28.6,13.0
+Madhouse Lounge,17.7,12.9,11.3,14.5,25.8,17.7
+Maepole,4.3,0.0,8.7,8.7,0.0,78.3
+Maggiano's Little Italy,2.7,3.3,11.8,29.2,45.3,7.7
+Magic City,17.3,5.2,18.2,29.6,20.1,9.6
+Magnolia Grill,3.9,5.9,21.6,41.2,25.5,2.0
+Main Event Atlanta,8.1,4.3,15.7,30.6,34.5,6.8
+Majestic Diner,3.8,4.4,12.7,25.1,50.6,3.4
+Malaya Restaurant,9.5,4.4,16.8,23.0,31.4,15.0
+Mali Restaurant,3.1,4.6,14.6,39.5,35.1,3.1
+Mandarin Express,23.3,3.3,16.7,20.0,26.7,10.0
+Mangos Caribbean Restaurant,12.4,9.4,16.1,26.4,30.3,5.5
+Manuel's Tavern,0.9,2.8,16.3,36.7,37.1,6.1
+Marco's Pita,25.0,50.0,0.0,0.0,0.0,25.0
+Marguerite’s Jerk Bistro,5.9,2.9,0.0,5.9,52.9,32.4
+Marie's@Ummat Cafe,5.0,6.7,13.3,56.7,6.7,11.7
+Maritza & Franks,33.3,0.0,0.0,0.0,33.3,33.3
+Maru Sushi,1.6,2.6,15.4,36.7,36.7,7.0
+Mary Mac's Tea Room,3.4,4.0,13.2,32.5,40.2,6.6
+Masti - Indian Street Eats,5.4,4.7,13.3,29.5,40.9,6.2
+Match Bar& Oven,5.8,3.9,16.9,39.0,31.2,3.2
+MattChews,2.4,0.0,7.3,0.0,48.8,41.5
+Max's Coal Oven Pizzeria,3.1,4.0,13.5,31.9,42.6,4.9
+McAlister's Deli,7.8,5.9,8.2,15.9,43.8,18.4
+McCormick & Schmick's Seafood & Steaks,12.4,8.5,16.5,29.9,28.4,4.3
+McDonald's,20.9,10.3,20.4,20.8,22.3,5.2
+McKinnon's Louisiane,5.5,4.8,12.5,24.6,38.6,14.0
+Mediterranea Restaurant & Bakery,0.9,1.6,7.3,39.2,45.9,5.1
+Mediterranean Food Atlanta | Lavash Mediterranean Grill,8.3,2.6,5.0,17.5,43.2,23.4
+Mediterranean Grill,5.7,5.9,13.0,27.7,40.9,6.9
+Medusa,16.0,6.6,14.8,34.6,20.5,7.5
+Meehan's Public House Downtown,2.8,4.3,18.8,30.6,42.0,1.5
+Meko's,3.4,0.0,0.0,0.0,3.4,93.1
+Mela Ethiopian Kitchen. Welcome to Delicious!,2.9,0.7,1.4,4.3,78.4,12.2
+Melia Hotel Atlanta,15.9,13.6,11.4,13.6,31.8,13.6
+Mellow Mushroom Atlanta - Brookhaven,4.1,4.5,14.9,29.1,38.4,8.9
+Mellow Mushroom Atlanta - Buckhead,3.6,3.2,12.1,35.3,36.2,9.6
+Mellow Mushroom Atlanta - Downtown,4.0,4.3,14.4,31.9,39.1,6.3
+Mellow Mushroom Atlanta - Emory,4.2,3.0,11.9,32.4,40.0,8.5
+Mellow Mushroom Atlanta - Midtown,8.9,6.1,21.1,23.9,35.8,4.2
+Mellow Mushroom Atlanta - Vinings,4.8,3.0,10.3,27.0,43.1,11.8
+Mellow Mushroom College Park,5.3,4.6,17.3,33.3,33.1,6.4
+Mellow Mushroom Decatur,4.1,3.4,14.0,29.9,38.0,10.6
+Melton's App & Tap,0.9,2.1,14.8,37.2,38.1,6.8
+Memphis Smokehouse,22.1,5.8,7.0,3.5,40.7,20.9
+Metro Café Diner and Bar,5.8,6.1,15.6,26.3,36.7,9.6
+Metro Fun Center,8.6,5.4,17.1,27.5,31.9,9.4
+MetroFresh Uptown,7.7,0.0,0.0,7.7,46.2,38.5
+Mezcalito's Cocina & Tequila Bar,4.1,3.2,14.3,29.2,38.5,10.6
+Mezza Luna Pasta and Seafood,1.2,1.1,10.8,30.4,44.2,12.3
+Mi Barrio Mexican Restaurant,5.9,2.7,12.7,27.5,45.3,5.9
+Michael's Cafe,28.4,3.4,17.0,22.7,23.9,4.5
+Midtown Bowl,3.2,5.2,18.9,33.9,31.9,6.9
+Midtown Diner,23.3,4.7,11.6,7.0,20.9,32.6
+Midtown Moon - Atlanta,8.3,1.4,2.8,19.4,62.5,5.6
+Midtown Plaza Cafe,14.3,0.0,14.3,14.3,42.9,14.3
+Mikkeys Retro Grill,10.9,5.0,4.0,2.0,47.5,30.7
+Miller Union,2.6,3.5,11.8,32.0,41.7,8.6
+Minato Japanese Restaurant,4.6,3.3,11.9,31.3,37.2,11.7
+Moe's,9.3,8.9,14.5,19.4,41.1,6.9
+Moe's Original BBQ - Atlanta,4.0,6.4,20.3,31.2,28.5,9.5
+Moe's Southwest Grill,9.3,6.3,17.5,29.2,32.7,5.0
+Mojo Pizza N' Pub,9.9,7.9,21.9,25.6,28.1,6.6
+Molly B's,8.5,0.0,5.1,25.4,59.3,1.7
+Monterrey mexican Restaurant#21,8.9,4.3,15.4,22.5,39.6,9.3
+Morningside Kitchen Restaurant,2.0,5.4,18.9,31.1,41.2,1.4
+Morris Restaurant & Lounge,6.8,1.9,9.7,25.2,43.7,12.6
+Morton's The Steakhouse,3.7,4.7,9.4,21.3,47.1,13.7
+Mr Fries Man,13.3,2.2,0.0,0.0,13.3,71.1
+Mr Soul Bistro & Cafe,21.0,1.6,4.8,3.2,54.8,14.5
+Mr. C's Bar & Grill,8.1,1.9,10.9,25.6,39.8,13.7
+Mr. Pig's Smokehouse,14.0,4.8,10.1,20.5,42.1,8.5
+Muchacho,1.9,1.3,8.9,29.3,49.0,9.6
+Mukja Korean Fried Chicken,3.9,2.2,2.8,0.0,12.2,78.9
+Murphy's Restaurant,1.9,2.0,10.9,27.6,48.7,8.9
+Muss & Turner's,2.0,3.2,13.5,33.0,41.7,6.7
+My Potato Factory,1.5,0.5,6.2,24.7,58.8,8.2
+NM Cafe,15.4,7.7,0.0,38.5,30.8,7.7
+NaanStop,7.4,5.1,17.4,25.4,38.9,5.9
+Nan Thai Fine Dining,1.5,2.7,6.9,27.9,47.4,13.5
+Nancy’s Pizza Campcreek,9.8,6.1,11.6,28.0,40.0,4.5
+Napoleon's,2.0,4.8,20.9,28.8,38.0,5.4
+Neighborhood Wraps and Smoothies,7.1,7.1,0.0,0.0,0.0,85.7
+New Realm Brewing,5.6,4.8,10.0,20.1,43.9,15.6
+New York Prime,3.0,5.8,10.5,22.5,41.5,16.8
+Newk's Eatery,5.3,3.9,12.2,31.6,42.0,5.1
+Nick's Food To Go,2.1,2.1,7.2,28.1,46.7,13.9
+Nick's Westside,2.3,3.8,6.8,9.8,56.8,20.5
+Nicky's Seafood,8.0,12.0,12.0,36.0,24.0,8.0
+Nicola's Restaurant,3.2,2.8,9.6,31.7,48.6,4.1
+Nina & Rafi,8.8,4.9,4.3,12.3,60.4,9.2
+Nino's Italian Restaurant,2.2,2.9,5.6,28.6,47.7,13.0
+Niramish Indian Cuisine,7.8,4.6,12.0,28.1,29.0,18.4
+No Mas! Cantina,4.3,5.4,14.4,28.1,38.3,9.5
+No.1 China,12.0,2.7,13.7,29.0,32.8,9.8
+Noodle,2.4,2.5,16.3,36.0,37.6,5.2
+Noodle Cafe,3.2,19.4,9.7,29.0,29.0,9.7
+Nouveau Bar&Grill,8.1,4.1,4.8,4.8,22.3,56.0
+Nova II Sushi Bar & Asian Bistro,13.3,40.0,13.3,0.0,26.7,6.7
+Nova Sushi Bar & Asian Bistro,3.4,2.9,7.6,32.4,43.4,10.3
+Nox Creek Lounge,50.0,0.0,0.0,0.0,0.0,50.0
+Nuevo Laredo Cantina,3.0,3.1,11.0,30.4,43.0,9.5
+O Mi Ga Vietnamese Kitchen,5.6,0.0,0.0,5.6,44.4,44.4
+O-Ku,5.0,5.2,11.0,27.5,42.8,8.7
+OK Cafe,3.8,2.2,7.3,24.9,51.3,10.5
+Oak Grove Market,1.2,0.0,17.6,28.2,31.8,21.2
+Oak Street Eats,28.6,14.3,14.3,0.0,0.0,42.9
+Old Lady Gang,17.9,9.3,11.6,16.3,34.3,10.6
+Old Vinings Inn,5.0,3.1,11.7,26.0,45.3,8.9
+Ole Reliable,28.6,0.0,14.3,14.3,0.0,42.9
+Olive Bistro Vinings,1.5,2.3,6.8,24.2,50.0,15.2
+Olympic Flame Restaurant,7.0,4.7,7.0,16.3,27.9,37.2
+Omakase by Yun @ Chirori Yakitori and Kushikatsu,7.7,15.4,23.1,15.4,7.7,30.8
+On The Border Mexican Grill & Cantina,9.7,6.9,16.4,19.2,42.6,5.2
+One Eared Stag,5.1,3.6,17.5,33.6,37.8,2.4
+One Rooster Mongolian Grill,0.5,1.4,4.7,24.4,67.6,1.4
+Ooo Wee Just Taste It,2.2,0.0,6.5,13.0,43.5,34.8
+Orient Express,4.8,2.5,11.4,30.9,38.2,12.2
+Ormsby's,2.2,3.1,19.3,31.9,41.2,2.3
+Osteria 832 Pasta & Pizza,5.4,5.7,13.6,32.8,36.3,6.3
+Our Bar ATL,1.8,0.0,0.9,8.9,39.3,49.1
+Outback Steakhouse,7.0,5.3,13.5,23.9,39.6,10.7
+Oy!,10.0,6.6,17.6,27.9,30.2,7.8
+PITA Mediterranean Street Food,28.1,9.4,6.2,15.6,34.4,6.2
+POKE CITY,0.7,2.2,5.9,31.6,45.6,14.0
+PONKO Chicken,2.8,2.6,7.1,12.5,47.3,27.7
+Paces & Vine Restaurant,2.3,4.9,12.0,33.0,40.5,7.3
+Padriac's,1.8,3.9,18.1,34.1,37.0,5.2
+Paige’s Pastries & Bistro,6.7,0.0,0.0,0.0,0.0,93.3
+Pancake Social,14.5,12.0,9.4,17.0,36.2,10.9
+Pancho's Mexican Restaurant & Cantina,8.6,6.0,16.8,27.6,32.6,8.5
+Panda Express,10.0,8.4,19.2,26.3,30.5,5.6
+Papinos Italian Restaurant,7.7,7.7,23.1,30.8,7.7,23.1
+Paris Bistro,4.3,4.3,17.4,26.1,17.4,30.4
+Park 27 Korean BBQ and Bar,10.1,7.9,7.9,2.9,35.3,36.0
+Park Bar,3.4,2.8,15.6,31.6,39.0,7.5
+Park Tavern,8.9,8.9,19.2,34.7,22.8,5.4
+Parker's on Ponce,2.0,2.2,10.6,29.9,39.5,15.9
+Parkway Cafe,28.6,14.3,0.0,0.0,42.9,14.3
+Pasha Restaurant and Bar,18.2,3.7,5.4,5.4,37.8,29.4
+Pasta Vino,6.1,7.2,22.8,21.7,27.2,15.0
+Patria Cocina,4.5,3.0,5.9,18.0,50.7,17.8
+Paul's Restaurant,12.5,0.0,12.5,12.5,25.0,37.5
+Peach Cobbler Café,31.7,17.4,12.1,0.0,11.6,27.2
+Pearl Benet Restaurant and Bar,6.1,0.0,3.0,3.0,12.1,75.8
+Pearl Lounge ATL,12.1,15.2,18.2,18.2,30.3,6.1
+Pecan,14.3,3.6,10.7,25.0,32.1,14.3
+Pegasus Restaurant & Lounge,14.7,3.9,10.8,14.7,52.0,3.9
+Penn Station East Coast Subs,21.1,5.7,17.1,28.9,23.7,3.5
+Penthouse ATL Restaurant & Lounge,7.1,7.1,7.1,14.3,28.6,35.7
+Petite Violette,1.6,3.2,9.3,26.8,47.4,11.8
+Phat Phish Cafe,9.8,6.4,17.1,26.5,33.3,6.8
+Phew's Pies,2.7,0.0,0.0,0.0,0.0,97.3
+Pho 24,8.2,4.2,17.7,34.1,30.4,5.4
+Pho Dai Loi #2,3.3,2.3,15.5,39.3,34.1,5.5
+Pho King Express,8.5,2.1,6.4,4.3,59.6,19.1
+Pho King Midtown,6.1,3.4,15.6,35.6,33.8,5.4
+Pho kitchen - PHO KITCHEN ATLANTA,6.1,5.1,23.4,40.1,23.1,2.3
+Piccadilly,5.4,4.4,12.7,28.1,39.2,10.3
+Piedmont Central Dining Hall,9.4,9.4,15.6,9.4,25.0,31.2
+Pijiu Belly,1.4,2.1,10.7,34.1,46.2,5.5
+Pin & Proper,7.3,4.8,9.0,22.3,47.5,9.0
+Pita Mediterranean Street Food,8.6,6.3,12.0,30.8,36.9,5.4
+Pittypat's Porch,7.9,8.3,17.7,22.7,43.3,0.1
+Piu Bello Buckhead,7.9,4.0,13.0,21.7,36.8,16.6
+Pizza Bella,11.3,4.4,17.0,30.8,28.3,8.2
+Pizza Hut,19.0,16.7,11.7,14.6,28.0,10.0
+Pizza Semplice,3.9,2.0,2.0,9.8,68.6,13.7
+Playa Bowls Beltline,11.3,1.0,3.0,7.9,54.2,22.7
+Poke Bar,2.6,7.9,2.6,5.3,73.7,7.9
+Poke Bar Decatur,2.4,0.5,9.2,21.7,52.2,14.0
+Polaris,3.5,3.9,9.6,27.6,54.8,0.6
+Pollo Campero (Buford Hwy),7.8,5.3,12.7,22.1,40.9,11.2
+Poor Hendrix,0.5,0.7,7.0,35.5,50.8,5.5
+Popeyes,11.2,7.6,18.2,18.8,32.9,11.2
+Popeyes Louisiana Kitchen,15.1,6.5,17.9,23.7,30.5,6.4
+Poppin Pita Grill,12.3,3.8,14.6,31.3,32.2,5.8
+Porch Light Latin Kitchen,1.9,1.9,6.8,32.6,52.5,4.4
+Portofino,2.8,0.9,14.6,31.0,39.4,11.3
+Pour Taproom: Beltline,3.5,4.5,3.0,15.4,54.7,18.9
+Pour. Kitchen + Bar,4.7,2.7,12.2,32.4,43.2,4.7
+Pretty Little Taco Truck,12.5,25.0,0.0,0.0,0.0,62.5
+Princi Italia,8.6,7.9,9.6,19.9,37.1,16.9
+Proscenium Cafe & Market,8.3,0.0,16.7,16.7,50.0,8.3
+Public House 28,2.9,2.9,7.1,10.0,57.1,20.0
+Public School 404,3.1,3.8,9.3,25.3,47.6,10.8
+Publik Draft House,3.5,5.2,13.3,30.0,45.0,3.0
+Puff & Petals,16.3,6.5,17.1,33.8,25.6,0.7
+Pura Vida,14.3,0.0,0.0,14.3,28.6,42.9
+Pure Taqueria,2.1,3.2,18.9,31.2,36.0,8.6
+Pyng Ho Chinese restaurant,9.2,9.2,16.7,27.5,29.2,8.3
+Q - Time Restaurant,4.9,4.3,16.9,32.2,33.1,8.6
+Q's Restaurant,6.7,5.5,12.8,29.3,39.0,6.7
+QDOBA Mexican Eats,31.6,0.0,15.8,0.0,21.1,31.6
+Queen of Sheba Lounge,12.2,7.3,31.7,34.1,9.8,4.9
+Quiznos,12.7,5.5,18.5,24.7,32.5,6.2
+RUCHI Bangladeshi Cuisine,4.1,3.6,5.9,28.2,41.8,16.4
+Rain Thai & Sushi Bar,4.7,2.8,9.8,26.2,44.6,11.9
+Ramen Station,5.4,5.8,12.9,17.9,52.7,5.4
+Rande voo Resturant lounge,14.3,0.0,0.0,0.0,14.3,71.4
+Randevoo Restaurant Lounge,8.3,0.0,4.2,0.0,8.3,79.2
+Ration and Dram,5.7,5.3,16.0,29.2,34.3,9.4
+Ray JR.'s RAPZ ( SALAD'S &JUICE BAR,6.2,0.0,6.2,0.0,18.8,68.8
+Ray's In the City,3.9,3.1,10.2,20.1,45.1,17.5
+Recess,5.7,1.9,4.8,22.9,49.5,15.2
+Red Pepper Taqueria,8.6,4.2,16.5,32.5,30.7,7.5
+Red Phone Booth,3.4,2.0,5.7,29.0,50.5,9.4
+Red's Beer Garden,0.8,0.0,1.5,1.5,41.5,54.6
+Republic Lounge,7.1,3.6,7.7,23.7,44.4,13.6
+Restaurant 356,3.2,3.2,10.2,31.0,48.7,3.7
+Revival,1.3,4.0,13.0,40.7,36.9,4.1
+Richards' Southern Fried,19.2,13.0,12.4,18.7,29.5,7.3
+Rico Rico Latin kitchen,4.3,0.0,0.0,0.0,4.3,91.3
+"Rising Roll Gourmet Cafe in Atlantic Station, GA",20.0,13.3,6.7,33.3,20.0,6.7
+Rising Roll Gourmet Café Downtown Atlanta,2.9,3.8,18.1,38.1,28.6,8.6
+Rising Roll Gourmet Café Piedmont West,30.0,15.0,25.0,15.0,10.0,5.0
+Roasters Rotisserie,1.6,1.8,10.9,33.2,43.4,9.1
+Roc South Cuisine,2.3,1.2,4.9,4.0,34.1,53.5
+Rock Steady - Atlanta,6.8,2.3,7.2,8.7,29.7,45.2
+Rodney Scott's BBQ Atlanta,14.8,8.2,18.0,0.0,9.8,49.2
+Romeos pizza and bistro,40.0,0.0,0.0,0.0,0.0,60.0
+Rosa's Pizza,2.0,4.0,20.2,25.0,37.8,11.0
+Rowdy Tiger Whiskey Bar & Kitchen,13.2,6.6,18.4,15.8,36.8,9.2
+Rreal Tacos,3.0,2.8,12.6,32.0,39.0,10.5
+Ru San's,3.9,4.9,13.0,26.5,41.8,9.8
+Ruby Tuesday,17.0,9.7,20.7,23.3,24.8,4.5
+Ruth's Chris Steak House,8.2,5.3,13.0,20.3,42.7,10.5
+STATS Brewpub,6.2,5.9,21.4,37.0,28.1,1.4
+STREET BISTRO,10.5,1.0,3.8,5.7,42.9,36.2
+Saba,7.9,3.0,8.5,24.4,39.6,16.5
+Sabor Dominicano,7.8,4.3,17.6,31.0,33.3,5.9
+"Saito - Sushi, Steak & Cocktails",5.7,2.9,2.9,0.0,5.7,82.9
+Sakura Ramen Bar,4.3,0.0,0.0,8.7,0.0,87.0
+Saladworks,6.7,3.8,6.7,16.3,55.8,10.6
+Salaryman,8.1,4.8,4.0,16.1,53.2,13.7
+Salata,7.3,3.4,9.9,14.1,41.9,23.4
+Saltwood Charcuterie & Bar,3.8,5.1,15.2,24.1,50.6,1.3
+Sam’s of San Francisco,4.5,9.1,2.3,0.0,38.6,45.5
+Sarku Japan,12.5,0.8,17.5,17.5,43.3,8.3
+Sauce Buckhead,5.0,0.0,6.6,33.1,36.4,19.0
+Savage Pizza,2.0,3.7,11.4,32.0,46.2,4.8
+Schlotzsky's,1.2,3.0,14.6,31.6,38.6,11.1
+Schlotzsky's Austin Eatery,8.8,4.7,16.1,18.1,32.1,20.2
+Scoreboard Sports Lounge,33.3,0.0,33.3,0.0,0.0,33.3
+Scout,1.9,2.2,11.6,30.9,40.6,12.7
+Scoville Hot Chicken,4.3,0.0,0.0,0.0,0.0,95.7
+Sea Salt Seafood Lounge,9.7,12.9,3.2,0.0,16.1,58.1
+Sean’s Heart of the Park,4.8,2.4,2.4,6.0,57.8,26.5
+Sear,7.7,6.4,14.1,19.9,42.9,9.0
+Senegambia Restaurant,18.5,1.9,5.6,11.1,51.9,11.1
+Senor Patron,4.7,3.9,19.6,28.0,35.1,8.7
+Serena Pastificio,8.3,0.0,8.3,16.7,0.0,66.7
+Serpas,3.8,3.2,15.9,33.0,35.4,8.7
+Seven Lamps,2.3,2.8,15.5,27.7,44.2,7.7
+Shakespeare Tavern Playhouse,1.1,0.7,4.4,16.8,52.9,24.0
+Shane's Rib Shack,6.6,5.2,12.8,27.9,37.6,10.0
+Shell,12.7,5.7,36.3,23.6,10.2,11.5
+Shorty's,3.4,2.0,6.8,24.4,50.7,12.7
+Showcase Food Gallery,1.4,1.4,3.9,27.4,57.3,8.5
+Sidechick,5.6,2.4,8.0,30.4,43.2,10.4
+Silom Thai & Sushi,2.9,1.5,2.2,10.2,47.4,35.8
+Silver Skillet,1.9,4.3,13.3,32.2,40.3,8.0
+Siracusa's New York Pizzeria,7.1,3.2,15.9,34.3,31.7,7.8
+Sivas Hookah Lounge,10.3,3.7,13.6,29.5,35.5,7.4
+Six Feet Under Pub & Fish House,3.6,4.6,17.3,34.6,32.2,7.7
+Skilled Cheese,14.3,0.0,0.0,0.0,0.0,85.7
+Skinny's Restaurant,2.4,2.4,14.7,35.7,34.9,9.9
+Slack's Restaurant & Bar,50.0,0.0,0.0,0.0,25.0,25.0
+Slice Downtown,2.5,2.9,13.4,32.0,47.7,1.5
+Slideways,2.7,4.4,8.5,31.6,43.5,9.2
+SluttyVegan ATL,1.9,0.6,3.2,0.0,7.1,87.2
+Smith's Olde Bar,1.8,2.3,12.3,38.0,42.9,2.6
+Snappers Fish & Chicken,36.0,4.0,8.0,8.0,8.0,36.0
+So Ba Vietnamese Restaurant,3.1,3.8,17.6,36.5,33.6,5.5
+Social Market & Cafe,9.1,0.0,4.5,0.0,22.7,63.6
+Sonic Drive-In,19.7,7.0,18.8,23.0,26.1,5.5
+Soul Good Fine Food,5.7,1.7,1.7,1.1,43.1,46.6
+Soul Vegetarian Restaurant,7.4,4.4,16.3,31.8,35.0,5.1
+Souper Jenny,1.7,1.9,10.8,31.8,45.6,8.2
+South City Kitchen Buckhead,1.5,2.1,14.1,31.6,45.1,5.6
+South City Kitchen Midtown,1.6,1.9,13.3,31.1,44.4,7.6
+South City Kitchen Vinings,1.9,1.9,13.7,27.3,52.0,3.1
+Southern Art and Bourbon Bar,6.0,7.2,15.2,27.0,40.2,4.3
+Sovereign Sweets,7.1,0.0,0.0,0.0,1.8,91.1
+Spin,4.5,2.3,9.1,6.8,38.6,38.6
+Spoon EastSide Restaurant,3.4,1.5,15.6,35.5,38.7,5.3
+Ssam Burger,1.3,0.4,19.7,38.2,27.6,12.7
+St Angelo's Pizza,8.9,3.0,13.6,30.6,34.4,9.5
+St. Cecilia,1.7,2.2,10.8,29.4,47.3,8.6
+Stan's Smoke Signals,15.4,15.4,0.0,15.4,7.7,46.2
+Star Cafe,5.2,3.0,11.2,35.2,36.5,9.0
+Star Provisions Market & Cafe,3.0,4.9,14.0,27.3,38.3,12.5
+Starfish Restaurant,4.7,5.3,14.8,32.5,35.5,7.1
+Stationside,4.0,4.0,16.0,32.0,36.0,8.0
+Steinbecks Restaurant,1.4,4.1,14.6,32.0,40.1,7.8
+Steve O's,16.7,0.0,16.7,0.0,50.0,16.7
+Stoney River Steakhouse and Grill,3.0,2.6,9.0,20.2,50.8,14.4
+Storico Fresco Alimentari e Ristorante,4.7,2.5,11.1,23.3,45.7,12.7
+Storico Vino,18.8,0.0,0.0,0.0,0.0,81.2
+Streatery,6.7,0.0,13.3,13.3,46.7,20.0
+Subway,17.7,6.6,14.9,23.0,29.9,7.9
+Sufi's Kitchen,11.1,4.2,15.7,29.3,31.2,8.6
+Suite Food Lounge,7.4,4.0,16.6,31.1,32.7,8.2
+Sun in My Belly,1.9,3.8,14.5,33.9,38.1,7.8
+Superica,2.6,2.6,10.5,28.0,48.5,7.8
+Supreme Fish Delight,5.0,3.3,14.6,32.5,31.7,12.9
+"Supreme Fish Delight, Camp Creek",5.1,4.5,11.9,18.1,46.3,14.1
+Sushi Avenue,4.1,4.9,6.1,24.4,45.1,15.4
+Sushi Avenue on the Square,1.4,3.2,12.7,33.4,42.4,6.9
+Sushi Kiku,4.3,2.7,15.8,35.0,34.4,7.8
+Sushi Tong,2.8,4.9,16.7,26.4,41.0,8.3
+Sushinobo,1.3,4.5,12.8,35.9,35.9,9.6
+Suya Grill,33.3,0.0,0.0,16.7,16.7,33.3
+Swan Coach House,4.2,2.5,8.5,24.2,58.9,1.7
+Sway,6.6,6.6,20.5,21.7,42.6,1.9
+Sweet & Fresh,11.9,3.1,3.5,1.3,23.5,56.6
+Sweet Auburn BBQ,3.5,2.8,12.5,35.9,35.0,10.3
+Sweet Auburn Barbecue Curb Market,4.2,7.0,28.2,15.5,25.4,19.7
+Sweet Georgia's Juke Joint,7.6,4.9,13.7,25.6,47.7,0.4
+Sweet-Stack Creamery,2.9,0.8,3.8,12.1,48.8,31.7
+SweetWater Brewing Company,3.6,5.5,10.6,26.5,41.2,12.5
+TGI Fridays,20.3,7.7,15.5,20.9,30.1,5.5
+THERE Gastropub,2.5,5.1,15.3,24.7,45.5,6.9
+TRACE Atlanta,4.8,23.8,23.8,28.6,14.3,4.8
+TWO urban licks,2.7,4.3,12.8,30.3,39.3,10.6
+Taco Bell,12.6,6.8,19.5,24.4,30.2,6.6
+Taco Mac,30.4,10.7,16.4,13.2,20.5,8.8
+Taco Mac Cumberland,13.7,6.4,18.5,27.0,29.6,4.9
+Taco Mac Decatur,11.4,7.6,17.4,27.5,27.9,8.2
+Taco Mac Lindbergh,14.5,7.1,17.2,24.6,30.4,6.2
+Taco Mac Metropolis,12.2,8.5,19.9,28.9,25.5,4.9
+Taco Mac Virginia Highlands,4.3,8.0,19.1,28.7,33.5,6.3
+Taco Pete Bistro,5.1,3.1,3.1,15.3,51.0,22.4
+Taichi Bubble Tea,7.6,3.0,4.5,0.0,12.1,72.7
+Taka Sushi Restaurant,4.9,5.6,22.2,23.6,36.1,7.6
+Talat Market,2.6,0.0,2.6,35.5,27.6,31.6
+Tanaka ramen,7.4,5.8,7.4,18.4,57.4,3.7
+Tantra Restaurant & Lounge,7.1,0.0,7.1,21.4,50.0,14.3
+Tapa Tapa,13.0,0.0,26.1,21.7,37.0,2.2
+Taqueria Acapulco,5.6,5.6,5.6,8.3,38.9,36.1
+Taqueria Michoacan,11.0,5.2,13.6,23.4,38.3,8.4
+Taqueria Tsunami,10.5,7.9,13.2,5.3,23.7,39.5
+Taqueria del Sol,2.9,4.1,10.5,34.2,41.6,6.7
+Taqueria on Broad,1.7,4.6,11.6,24.8,46.4,10.9
+"Taquería""Mami's",3.4,3.4,1.7,10.2,45.8,35.6
+Taste Of India,40.0,8.9,2.2,15.6,24.4,8.9
+Taste of Tropical,10.6,2.1,10.6,20.3,46.2,10.2
+Tasty China Jia,14.5,6.6,13.6,23.9,29.9,11.5
+Tavernpointe,3.4,2.7,12.7,27.1,44.5,9.6
+Taxco Restaurante Mexicano,3.5,3.1,14.6,35.8,33.7,9.4
+Terri's Cafe Inc,6.5,4.8,1.6,6.5,69.4,11.3
+Thai Diner,5.0,5.0,15.8,29.7,34.7,9.9
+The Abby Singer,25.0,12.5,25.0,12.5,0.0,25.0
+The BQE Restaurant & Lounge,12.0,4.9,15.3,28.0,33.3,6.5
+The Bando,9.8,2.4,2.4,0.0,4.9,80.5
+The Betty,6.2,0.0,0.0,12.5,0.0,81.2
+The Beverly,5.1,2.7,4.8,7.5,37.0,42.8
+The Big Ketch Saltwater Grill - Buckhead,5.1,3.5,17.5,31.6,34.2,8.1
+The Blind Pig Parlour Bar,1.8,3.0,14.6,26.8,42.7,11.0
+The Brasserie and Neighborhood Cafe at PARISH,2.2,3.9,14.7,31.1,43.1,5.0
+The Brasserie at Bazati,11.4,7.4,6.8,13.6,52.8,8.0
+The Bucket Shop Cafe,4.3,3.4,12.8,33.7,36.3,9.6
+The Chastain - New American Bistro,4.2,6.9,5.6,0.0,9.7,73.6
+The Cheesecake Factory,6.4,7.0,13.1,23.2,41.8,8.4
+The Companion,0.9,0.0,6.0,6.9,45.7,40.5
+The Corner Grille,3.8,2.0,10.9,30.6,41.3,11.3
+The Deer and The Dove,5.5,3.9,4.7,6.3,62.2,17.3
+The Drafting Table Cocktails & Kitchen,12.5,0.0,37.5,25.0,0.0,25.0
+The Duck Club,25.0,0.0,0.0,25.0,0.0,50.0
+The Dwarf House,0.8,0.8,8.5,14.4,62.7,12.7
+The Family Dog,3.6,4.4,15.5,31.0,35.3,10.3
+The Federal,6.3,4.0,9.1,26.9,49.1,4.6
+The Fill Up Station,10.7,5.7,5.7,7.4,60.7,9.8
+The French Market & Tavern - Vinings,10.3,2.6,5.1,0.0,12.8,69.2
+The Gathering Spot ATL,1.3,1.3,10.0,35.9,48.1,3.4
+The Gavel Cafe,14.3,0.0,42.9,0.0,14.3,28.6
+The Glenwood,3.8,3.6,16.3,29.3,37.9,9.1
+"The Goodz (Seafood, Steak and Cocktails)",37.6,7.7,6.0,0.0,1.7,47.0
+The Greater Good BBQ,7.1,2.2,15.6,36.7,31.4,6.9
+The Grill Shack,33.3,0.0,0.0,33.3,0.0,33.3
+The Grove Restaurant & Tavern,2.9,2.4,13.9,29.5,43.7,7.6
+The Halal Guys | Midtown,6.4,1.6,4.5,9.4,67.4,10.7
+The Highlander,2.5,3.9,10.0,25.7,51.6,6.4
+The Hive Buckhead,23.5,10.9,6.8,8.6,21.9,28.3
+The Iberian Pig,1.8,2.6,7.8,27.9,47.5,12.4
+The Ivory Restaurant,31.6,7.6,5.1,13.9,39.2,2.5
+The Juicy Crab,6.8,2.3,4.1,0.2,7.4,79.1
+The Lawrence,4.3,3.6,14.1,31.7,42.1,4.2
+The Marlay House,1.8,2.7,15.4,32.0,38.2,9.9
+The Melting Pot,3.2,3.3,10.5,33.1,35.7,14.2
+The Midway Pub,2.1,2.4,17.5,38.2,35.7,4.1
+The Nook on Piedmont Park,4.3,8.1,19.7,33.7,27.2,7.0
+The Original El Taco,3.3,4.6,17.5,32.5,33.9,8.2
+The Original J.R. Crickets in Midtown Atlanta,8.3,5.9,16.9,25.9,35.5,7.6
+The Painted Duck,1.6,0.8,7.4,30.4,53.8,6.1
+The Painted Pin,4.1,2.4,16.1,35.0,38.9,3.5
+The Pantry & Provisions | Gourmet Sandwiches & Cheffy Bodega,4.3,0.0,0.0,4.3,87.0,4.3
+The Patio Social Club,2.6,0.0,0.0,10.3,56.4,30.8
+The Piedmont Room,3.7,3.7,22.2,14.8,48.1,7.4
+The Pig and The Pearl,7.6,7.8,14.5,25.9,38.8,5.5
+The Pinewood,2.0,3.9,12.4,25.2,45.4,11.1
+The Porter Beer Bar,0.6,1.9,11.7,39.7,41.8,4.2
+The Projects Restaurant and Lounge,17.4,4.3,4.3,4.3,21.7,47.8
+The Public House,10.1,11.6,5.8,43.5,24.6,4.3
+The Punchline Comedy Club,4.6,2.3,13.9,28.8,46.5,4.0
+The Regent Cocktail Club,4.0,1.8,8.1,22.4,57.4,6.3
+The Roast,11.4,15.7,20.0,22.9,27.1,2.9
+The Roof at Ponce City Market,5.0,3.8,6.3,13.2,35.2,36.5
+The Sleepy Potato,27.3,2.0,5.1,5.1,23.2,37.4
+The Spice House,11.0,4.9,14.2,27.8,32.6,9.6
+The Spindle,4.0,2.0,22.0,48.0,20.0,4.0
+The Spindle Kitchen,12.5,0.0,0.0,0.0,12.5,75.0
+The Square Pub,2.6,1.6,16.5,34.9,44.0,0.5
+The Steamhouse Lounge,1.6,2.4,11.6,28.2,46.9,9.4
+"The Sun Dial Restaurant, Bar & View",4.7,5.4,14.8,26.7,45.6,2.8
+The Tavern At Phipps,13.2,7.1,14.0,19.1,42.1,4.5
+The Third Space,20.0,0.0,0.0,20.0,20.0,40.0
+The Varsity,6.7,7.9,17.6,28.4,34.4,5.0
+The Vortex Bar & Grill,2.5,2.2,11.3,33.2,44.5,6.3
+The Warren City Club,4.9,2.2,14.1,25.4,39.5,14.1
+The White Bull,1.3,2.5,5.7,17.5,57.1,15.9
+The White House Restaurant,4.3,4.3,12.1,24.5,44.7,10.3
+The Wing Shack Atl,37.3,7.1,11.9,15.7,21.8,6.1
+Therapy Lounge,11.1,3.0,15.7,23.8,36.6,9.8
+There on Fifth,8.3,0.0,8.3,11.1,36.1,36.1
+Thinking Man Tavern,2.7,3.3,18.2,41.1,30.9,3.8
+This Is It! BBQ & Seafood Franchise (Smyrna),26.4,10.5,13.8,15.1,30.3,4.0
+Thrive,5.1,4.5,18.4,32.2,37.9,1.9
+Thumbs Up Diner,8.0,5.9,12.6,19.3,34.3,20.0
+Tiff's Treats Cookie Delivery,5.8,1.0,9.7,34.0,36.9,12.6
+Tiki Tango Hideaway Oasis,6.2,3.6,5.8,17.4,53.1,13.8
+Toast On Lenox,8.8,5.0,2.5,0.0,7.5,76.2
+Tokyo Grill,12.5,4.2,4.2,20.8,41.7,16.7
+Tomo Japanese Restaurant,2.8,3.1,11.7,29.6,42.5,10.3
+Top Spice Thai & Malaysian Cuisine,7.0,4.9,15.9,27.8,36.3,8.0
+Topgolf,4.5,2.6,13.6,43.6,28.6,7.1
+Touch,13.1,5.8,24.2,31.8,21.7,3.3
+Trader Vic's,7.1,5.8,13.1,25.8,42.2,6.1
+Traffik Kitchen and Cocktails,12.8,1.1,5.3,6.4,24.5,50.0
+Trap Dog Wings & Burgers,22.7,0.0,0.0,9.1,45.5,22.7
+Treehouse Restaurant and Pub,2.9,5.3,14.8,31.1,33.5,12.4
+Tribeca Restaurant,22.1,5.8,5.8,0.0,10.5,55.8
+Tropical Smoothie Cafe,16.4,4.9,11.2,21.7,36.5,9.4
+Truman Tavern,4.5,0.0,0.0,22.7,68.2,4.5
+Truva,4.3,2.5,10.9,28.2,51.4,2.8
+Truva - Virginia Highland,3.8,2.9,1.0,1.9,48.6,41.9
+Truva Turkish Kitchen,4.4,4.4,25.3,31.4,23.3,11.1
+Tuk Tuk Thai Food Loft,3.5,3.3,12.2,24.7,46.8,9.4
+Tupelo Honey,4.8,4.8,13.4,27.1,40.6,9.2
+Twain's Brewpub & Billiards,2.1,3.4,18.2,39.9,34.3,2.1
+Twelve Eighty,3.9,6.5,9.0,21.3,46.5,12.9
+Twisted Kitchen - Midtown,5.9,5.1,13.2,27.2,42.6,5.9
+Twisted Soul Kitchen & Bar,12.5,0.0,0.0,25.0,50.0,12.5
+Umi,6.3,1.8,9.9,32.6,43.5,6.0
+Uncle Julio's,5.6,9.2,14.4,23.2,37.4,10.3
+Unity Restaurant,2.6,2.2,11.3,25.9,46.4,11.7
+Universal Joint Decatur,2.3,5.2,13.7,31.5,38.1,9.3
+Urban Wu,7.8,4.7,4.2,10.4,58.9,14.1
+Valenza,3.9,0.9,14.2,30.9,39.8,10.4
+Varasano's Pizzeria - Buckhead,0.7,0.7,0.5,2.5,81.6,14.0
+Varuni Napoli,3.9,1.4,9.9,31.5,44.5,8.8
+Velvet Taco,3.4,4.6,4.6,8.3,47.0,32.1
+Venkman's,1.4,1.8,10.0,29.5,50.2,7.2
+Victory Sandwich Bar,3.1,2.2,15.5,37.0,35.9,6.3
+Views Bar and Grill Atlanta,12.0,4.0,6.0,0.0,6.0,72.0
+Villa Italian Kitchen,33.3,0.0,6.7,13.3,26.7,20.0
+Village Coffee House,2.9,5.9,20.6,32.4,25.0,13.2
+Vinny's N.Y. Pizza & Grill - Ansley Mall,7.9,2.5,9.2,25.5,43.1,11.7
+Virgil's Gullah Kitchen & Bar,6.1,2.8,5.8,14.9,49.9,20.5
+Vision Restaurant & Lounge,12.7,1.4,12.3,20.9,36.4,16.4
+Volare Wine & Bistro,1.0,2.4,10.5,31.8,42.8,11.5
+W.K. Wings,20.6,8.8,0.0,2.9,20.6,47.1
+WNB Factory - Wings & Burger,8.5,3.1,11.9,27.9,40.4,8.2
+Wadada Healthy Market & Juice Bar,2.3,0.6,2.9,1.2,44.2,48.8
+Waffle House,10.3,5.1,16.2,27.6,34.3,6.5
+Wagaya - Emory Village,6.9,1.1,4.7,26.1,46.0,15.2
+Wagaya - Westside,1.8,1.1,13.0,35.8,40.5,7.7
+Wahoo! Grill,3.1,3.1,14.2,34.9,39.7,4.9
+Walter's Soul Food Cafe,10.0,4.9,13.0,23.6,41.5,6.9
+Watchman's,2.4,2.8,6.6,15.1,59.9,13.2
+We Suki Suki | A Global Grub Collective,4.5,1.5,16.1,41.5,31.8,4.5
+Wendy's,13.4,6.8,19.8,23.9,29.4,6.6
+West Egg Cafe,2.9,3.5,13.8,32.7,42.4,4.6
+Westside Pizza,33.3,0.0,0.0,0.0,0.0,66.7
+Wheelhouse Craft Pub and Kitchen,2.1,0.0,0.7,11.0,28.1,58.2
+Which Wich Superior Sandwiches,12.1,4.0,14.7,13.4,37.9,17.9
+Whiskey Bird,0.5,2.5,10.0,31.0,42.6,13.4
+Whiskey Blue,4.5,3.5,16.0,26.7,43.1,6.2
+White Oak Kitchen & Cocktails,5.2,2.9,15.0,29.9,41.8,5.1
+Wild Heaven West End Brewery & Gardens,3.2,1.1,3.2,13.4,46.5,32.6
+Willow Bar,14.3,28.6,14.3,14.3,14.3,14.3
+Willy's Mexicana Grill,3.1,1.6,9.4,42.2,32.8,10.9
+Wing House,30.0,3.3,6.7,3.3,36.7,20.0
+Wingnuts,9.7,3.1,14.8,30.4,36.0,6.1
+Wingnuts&Chopsticks,25.2,10.5,11.9,27.3,20.3,4.9
+Wings & Seafood,9.5,4.8,17.5,34.9,27.0,6.3
+Wings Cafe & Deli,8.8,5.0,9.4,30.9,40.9,5.0
+Wisteria,2.9,6.0,17.9,27.3,40.3,5.7
+Wnb factory cascade,7.1,3.8,12.0,22.4,43.2,11.5
+Wokdragon,22.7,6.8,6.8,27.3,29.5,6.8
+Wonderkid,4.2,4.9,9.0,4.2,49.3,28.5
+Woodward & Park,7.4,0.0,0.0,3.7,48.1,40.7
+Woody's CheeseSteaks,2.5,3.3,10.8,24.3,43.5,15.6
+Wyatt's Country BBQ,6.6,5.6,14.8,27.5,35.8,9.6
+X Midtown,15.4,6.2,26.5,29.6,18.5,3.7
+XPERIENCE SPORTS BAR & Lounge,5.9,0.0,5.9,0.0,14.7,73.5
+Yami Sushi,10.2,9.6,15.7,29.9,30.5,4.1
+Yami Yami,4.1,5.4,17.6,23.0,35.1,14.9
+Yoi Yoi,7.1,0.0,7.1,0.0,50.0,35.7
+Young Augustine's,2.4,6.9,23.1,35.5,29.2,2.9
+Your Pie Pizza,4.9,1.6,9.4,22.3,40.6,21.1
+Yum's Subs,4.2,10.5,24.2,30.5,27.4,3.2
+Yumbii @ Toco Hills,3.8,5.7,7.5,3.8,15.1,64.2
+Yumbii Food Truck,12.5,0.0,0.0,37.5,37.5,12.5
+Zari Lounge,15.0,5.0,11.7,1.7,25.0,41.7
+Zaxby’s,17.2,6.4,5.9,7.4,29.6,33.5
+Zena's BBQ and Seafood Joint,6.5,3.2,3.2,0.0,32.3,54.8
+Zesto - Buckhead,4.5,4.2,14.6,29.5,40.0,7.3
+Zesto - East Atlanta,7.6,2.9,15.3,30.5,35.1,8.6
+Ziba's Bistro Grant Park Best Kept Secret,1.0,3.0,9.4,36.0,42.8,7.7
+Zocalo Mexican Kitchen & Cantina,4.0,6.4,18.7,28.1,37.3,5.5
+Zoes Kitchen,5.2,6.8,16.2,27.2,40.3,4.2
+Zoës Kitchen,5.7,4.1,14.6,26.9,40.7,8.0
+Zubi's Taco Kitchen,7.1,0.0,0.0,0.0,30.4,62.5
+Zunzi’s,1.4,0.5,3.8,14.5,66.1,13.7
+bp,9.5,7.7,25.7,24.2,26.0,6.9
+cafe delight,7.7,0.0,15.4,19.2,30.8,26.9
+endive Publik house,3.9,8.3,23.8,26.0,33.7,4.4
+envegan,3.7,0.0,3.7,14.8,0.0,77.8
+gusto! Peachtree,3.6,1.5,14.0,32.2,40.6,8.1
+gusto! West Midtown,5.6,2.8,3.3,8.9,58.3,21.1
+iNatural Eats,7.4,1.9,7.4,9.3,14.8,59.3
+moonbowls (Healthy Korean Bowls- Forrest),13.3,0.0,26.7,0.0,0.0,60.0
+no. 246,1.2,1.7,10.3,31.5,44.8,10.5
+noodle,4.3,5.0,6.4,16.4,57.9,10.0
+smyrna crawfish boil,50.0,0.0,0.0,0.0,0.0,50.0
+sweetgreen,10.7,7.1,21.4,0.0,10.7,50.0
+the Woodall,1.4,4.2,5.6,0.0,4.2,84.5
+the window.atl,50.0,0.0,0.0,0.0,0.0,50.0

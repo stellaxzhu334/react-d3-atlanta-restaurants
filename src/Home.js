@@ -54,6 +54,7 @@ class Home extends Component {
         d3.csv(process.env.PUBLIC_URL + '/atlanta_biz_rating_percent_data.csv').then((data) => {
             const formattedData = data.map((row) => ({
                 restaurant_name: String(row.restaurant_name),
+                zero: parseFloat(row["0.0"]),
                 one: parseFloat(row["1.0"]),
                 two: parseFloat(row["2.0"]),
                 three: parseFloat(row["3.0"]),

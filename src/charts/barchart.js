@@ -8,6 +8,7 @@ class CustomBarChart extends React.Component {
 
         // Transform the data into the format expected by Recharts (combination of key + value pair)
         const chartData = [
+            { name: '0 star', rating: data.zero },
             { name: '1 star', rating: data.one },
             { name: '2 stars', rating: data.two },
             { name: '3 stars', rating: data.three },

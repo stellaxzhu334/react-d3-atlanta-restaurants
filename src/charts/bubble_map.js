@@ -30,6 +30,7 @@ class Bubble_Map extends Component {
                         <Tooltip direction="top" permanent={false} opacity={0.8}>
                             <div>
                                 <h3>{restaurant.restaurant_name}</h3>
+                                <p>Num of Reviews: {restaurant.num_of_reviews}</p>
                                 <p>Rating: {restaurant.average_rating}</p>
                                 {/* Add other restaurant information here */}
                             </div>
